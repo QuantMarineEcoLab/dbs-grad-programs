@@ -1,9 +1,9 @@
 <p align="center"> 
-   :sparkles: Welcome to the Quant Marine Ecology Lab Manual! :sparkles: 
+   :sparkles: Welcome to the UNH Department of Biological Sciences Graduate Program! :sparkles: 
 </p>
 
 
-This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the QMEL group. If we missed anything, please let easton.white@unh.edu know. You can also do a pull request and we will review the changes. 
+This Quarto book is intended to be used for **incoming, current, and outgoing** members of the department's graduate program. If we missed anything, please let easton.white@unh.edu know. You can also do a pull request and we will review the changes. 
 
 We hope this has all the answers you need!
 
@@ -12,7 +12,7 @@ __Want to adapt the lab manual for your group?__ This [short tutorial](https://g
 
 **Acknowledgements**
 
-We built our lab manual based on that of the Fay Lab, which participated in the Openscapes Champions program.
+We built this webpaage based on Easton White's lab manual, whom adapted it from the Fay Lab, which participated in the Openscapes Champions program.
 
 ---
 
