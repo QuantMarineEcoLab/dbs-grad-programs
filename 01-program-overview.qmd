@@ -2,7 +2,7 @@
 bibliography: references.bib
 ---
 
-# Welcome {#welcome}
+# Program Overview
 
 Welcome to the online hub for graduate studies in the Department of Biological Sciences at UNH. We are a broad department with interests spanning microbes to ecosystems. We currently have just over 40 graduate students in the department in both our MS and PhD programs. We accept around 10 students into the programs each year.
 
