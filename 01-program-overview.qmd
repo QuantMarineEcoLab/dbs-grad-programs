@@ -2,42 +2,20 @@
 bibliography: references.bib
 ---
 
-# Introduction {#intro}
+# Welcome {#welcome}
 
+Welcome to the online hub for graduate studies in the Department of Biological Sciences at UNH. We are a broad department with interests spanning microbes to ecosystems. We currently have just over 40 graduate students in the department in both our MS and PhD programs. We accept around 10 students into the programs each year.
 
-## Essential intent
+We offer MS and PhD degrees in Integrative Biology, Marine Biology, and Neuroscience & Behavior. 
 
-## QMEL flywheel
+We prioritize community and culture within our department. We have a weekly coffee hour, a regular seminar series, and other informal ways to connect. 
 
+Ongoing work in the department is closely tied to the UNH collections, the NH Agricultural Experimental Station, the School of Marine Science and Ocean Engineering (SMSOE), and other UNH research center and institutes. Many graduate students work at one of our three(!) marine field stations in addition to facilities in our newly renovated Spaulding Hall. 
 
-## SDGs
+Below you’ll find information for prospective students (including how to apply) and documents relevant to current students. Most information for current students exists in the department Sharepoint. If you have questions, please reach out to me, the coordinators listed on the program pages or DBS Academic Program Manager.
 
-In 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.
+Easton R. White, Ph.D.
 
-![](https://digitalcommons.imsa.edu/assets/md5images/e64175b83ab6b9dfdfdd959a642d576e.png)
+Chair, Graduate Program Committee 
 
-
-## Readings
-
-See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:
-
-- Our path to better science in less time using open data science tools [@lowndes2017]
-- Good enough practices in scientific computing [@wilson2017]
-
-\[To come: recommended reading list\]
-
-
-
-
-
-
-## Shared lab resources
-
-We also share our institutional knowledge through our lab-chat github 'issues' repository. This is a community-driven troubleshooting resource, please contribute!
-
-We maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.
-
-- [Lab Sharepoint/One Drive](https://universitysystemnh.sharepoint.com/teams/QuantMarineEcologyLab/SitePages/ProjectHome.aspx)
-
-## References
 
