@@ -3,39 +3,34 @@ project:
   output-dir: _book
   
 book:
-  title: "Quantitative Marine Ecology Lab Manual"
-  author: "Easton R. White"
+  title: "UNH Biological Sciences Graduate Program"
   date: last-modified 
-  description: "This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire" 
+  description: "This is the manual for the graduate programs in the Department of Biological Sciences at the University of New Hampshire." 
   
   page-footer:
     left: |
-      <a href="https://quantmarineecolab.github.io/">QuantMarineEcoLab</a>
+      <a href="https://colsa.unh.edu/biological-sciences/">UNH Biological Sciences</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://quantmarineecolab.github.io/lab-manual/
-  repo-url: https://github.com/QuantMarineEcoLab/lab-manual
+  site-url: https://quantmarineecolab.github.io/dbs-grad-programs/
+  repo-url: https://github.com/QuantMarineEcoLab/dbs-grad-programs
   repo-actions: [edit,issue]
 
   chapters: 
     - index.qmd
-    - 01-intro-how-we-work.qmd
-    - 02-lab-culture-philosophy.qmd
-    - 03-code-of-conduct.qmd
-    - 04-recruitment.qmd
-    - 05-onboarding.qmd
-    - 06-training-undergrads-and-interns.qmd
-    - 07-training-grad-students.qmd
-    - 08-training-postdocs-and-staff.qmd
-    - 09-training-lab-leader.qmd
-    - 10-producing-quality-work.qmd
-    - 11-scicomm-and-outreach.qmd
-    - 12-grants.qmd
-    - 13-money.qmd
-    - 14-offboarding.qmd
-    - 15-UNH-and-Durham.qmd
-    - 16-lab-manual-inspiration.qmd
-    - 17-helpful-links.qmd
+    - 01-program-overview.qmd
+    - 02-admissions.qmd
+    - 03-onboarding.qmd
+    - 04-ms-marinebiology.qmd
+    - 05-phd-marinebiology.qmd
+    - 06-ms-integrativebiology.qmd
+    - 07-phd-integrativebiology.qmd
+    - 08-ms-neurosciencebehavior.qmd
+    - 09-phd-neurosciencebehavior.qmd
+    - 10-funding.qmd
+    - 11-finishing.qmd
+    - 12-UNH-and-Durham.qmd
+    - 13-helpful-links.qmd
 
 
 

@@ -1,24 +1,13 @@
 # Welcome!
 
-[![](img/QMEL_Lab_logo2.png){fig-align="left" width="25%"}](ineecolab.github.io){fig-alt="QMEL lab website"}
+[![](img/unh_logo.png){fig-align="left" width="25%"}](https://colsa.unh.edu/biological-sciences){fig-alt="UNH logo"}
 
-<br> This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\
+<br> This handbook provides an overview and practical details of requirements for the M.S. and Ph.D. degrees in the [Department of Biological Sciences (DBS)](https://colsa.unh.edu/biological-sciences). There are currently two graduate programs that exist within the department, the Integrative Biology and Marine Biology programs. While each program has specific curricular requirements, there remains much overlap between the two programs. Thus, this will serve as a general guide for being a graduate student in DBS with notes for each program as needed. Both programs, like all other graduate programs at UNH, are part of the UNH Graduate School; additional details, links, and resources for graduate students are available at the [UNH Graduate School website](https://gradschool.unh.edu/student-resources).
 
-Our work focuses on how to use quantitative tools to understand marine systems. We have three core lab themes: improving environmental monitoring, understanding how ecosystems respond to extreme events, and how to improve environmental data science education. More about our group can be found on our [website](https://quantmarineecolab.github.io/){target="_blank"}.
+The purpose of this document is to help ensure a more seamless transition into the department. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document (see Edit this page to the right. As a department member, you should have push access and not need to fork the repo). If you have suggestions for additions or changes, please [add a New Issue](https://github.com/QuantMarineEcoLab/dbs-grad-programs/issues/new) or contact Easton (easton.white\@unh.edu). 
 
-The purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document (see Edit this page to the right. As a lab member, you should have push access and not need to fork the repo) in order to help future lab members. If you have suggestions for additions or changes, please [add a New Issue](https://github.com/QuantMarineEcoLab/lab-manual/issues/new) or contact Easton (easton.white\@unh.edu). QMEL lab members can also [provide anonymous feedback here](https://forms.office.com/pages/responsepage.aspx?id=kxgk1i1R3EaNK75H4l9WZiusjT3KS5pIh_XMBTmNNFdUMlRKRUJKSjNFSktFVDlVM1g4T1hXWFU0NCQlQCN0PWcu&route=shorturl). 
-
-Wherever possible, this document includes links to other resources and documents on campus. This is to reduce overlap in effort and to keep everything up to date. Here are two of the most important:
-
-- [UNH Graduate School](https://gradschool.unh.edu/student-resources)
-- [DBS Grad Student Handbooks](https://colsa.unh.edu/biological-sciences/key-documents) - parts of these feel out of date
-
-
-QMEL has had a lab manual since its inception, but we used this [template from the Fay Lab](https://github.com/thefaylab/lab-manual) starting in 2025. They built it as part of the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
 
 <br>
-
-[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/QuantMarineEcoLab/lab-manual){target="_blank"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the original lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
 
 
 ------------------------------------------------------------------------
