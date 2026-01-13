@@ -2,76 +2,26 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quantitative Marine Ecology Lab Manual",
+    "title": "UNH Biological Sciences Graduate Program",
     "section": "",
-    "text": "1 Welcome!\n\n\n\n\n\n This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\n\nOur work focuses on how to use quantitative tools to understand marine systems. We have three core lab themes: improving environmental monitoring, understanding how ecosystems respond to extreme events, and how to improve environmental data science education. More about our group can be found on our website.\nThe purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document (see Edit this page to the right. As a lab member, you should have push access and not need to fork the repo) in order to help future lab members. If you have suggestions for additions or changes, please add a New Issue or contact Easton (easton.white@unh.edu). QMEL lab members can also provide anonymous feedback here.\nWherever possible, this document includes links to other resources and documents on campus. This is to reduce overlap in effort and to keep everything up to date. Here are two of the most important:\n\nUNH Graduate School\nDBS Grad Student Handbooks - parts of these feel out of date\n\nQMEL has had a lab manual since its inception, but we used this template from the Fay Lab starting in 2025. They built it as part of the Openscapes Champions program.\n\n\n &lt; link to this book’s GitHub repository. Also see Quick steps to making a copy of the original lab manual and publishing it!\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "1 Welcome!\n\n\n\n\n\n This handbook provides an overview and practical details of requirements for the M.S. and Ph.D. degrees in the Department of Biological Sciences (DBS). There are currently two graduate programs that exist within the department, the Integrative Biology and Marine Biology programs. While each program has specific curricular requirements, there remains much overlap between the two programs. Thus, this will serve as a general guide for being a graduate student in DBS with notes for each program as needed. Both programs, like all other graduate programs at UNH, are part of the UNH Graduate School; additional details, links, and resources for graduate students are available at the UNH Graduate School website.\nThe purpose of this document is to help ensure a more seamless transition into the department. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document (see Edit this page to the right. As a department member, you should have push access and not need to fork the repo). If you have suggestions for additions or changes, please add a New Issue or contact Easton (easton.white@unh.edu).\n\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome!</span>"
     ]
   },
   {
-    "objectID": "01-intro-how-we-work.html",
-    "href": "01-intro-how-we-work.html",
-    "title": "2  Introduction",
+    "objectID": "01-program-overview.html",
+    "href": "01-program-overview.html",
+    "title": "2  Welcome",
     "section": "",
-    "text": "2.1 Essential intent",
+    "text": "Welcome to the online hub for graduate studies in the Department of Biological Sciences at UNH. We are a broad department with interests spanning microbes to ecosystems. We currently have just over 40 graduate students in the department in both our MS and PhD programs. We accept around 10 students into the programs each year.\nWe offer MS and PhD degrees in Integrative Biology, Marine Biology, and Neuroscience & Behavior.\nWe prioritize community and culture within our department. We have a weekly coffee hour, a regular seminar series, and other informal ways to connect.\nOngoing work in the department is closely tied to the UNH collections, the NH Agricultural Experimental Station, the School of Marine Science and Ocean Engineering (SMSOE), and other UNH research center and institutes. Many graduate students work at one of our three(!) marine field stations in addition to facilities in our newly renovated Spaulding Hall.\nBelow you’ll find information for prospective students (including how to apply) and documents relevant to current students. Most information for current students exists in the department Sharepoint. If you have questions, please reach out to me, the coordinators listed on the program pages or DBS Academic Program Manager.\nEaston R. White, Ph.D.\nChair, Graduate Program Committee",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Welcome</span>"
     ]
   },
   {
-    "objectID": "01-intro-how-we-work.html#qmel-flywheel",
-    "href": "01-intro-how-we-work.html#qmel-flywheel",
-    "title": "2  Introduction",
-    "section": "2.2 QMEL flywheel",
-    "text": "2.2 QMEL flywheel",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#sdgs",
-    "href": "01-intro-how-we-work.html#sdgs",
-    "title": "2  Introduction",
-    "section": "2.3 SDGs",
-    "text": "2.3 SDGs\nIn 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#readings",
-    "href": "01-intro-how-we-work.html#readings",
-    "title": "2  Introduction",
-    "section": "2.4 Readings",
-    "text": "2.4 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#shared-lab-resources",
-    "href": "01-intro-how-we-work.html#shared-lab-resources",
-    "title": "2  Introduction",
-    "section": "2.5 Shared lab resources",
-    "text": "2.5 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#references",
-    "href": "01-intro-how-we-work.html#references",
-    "title": "2  Introduction",
-    "section": "2.6 References",
-    "text": "2.6 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "02-lab-culture-philosophy.html",
-    "href": "02-lab-culture-philosophy.html",
+    "objectID": "02-admissions.html",
+    "href": "02-admissions.html",
     "title": "3  Lab culture and philosophy",
     "section": "",
     "text": "3.1 Guiding principles\nThere are several guiding principles that form the basis of my outlook as a scientist which also inform my approach to leading a lab. Throughout this lab manual, I will come back to these themes.",
@@ -80,8 +30,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#guiding-principles",
-    "href": "02-lab-culture-philosophy.html#guiding-principles",
+    "objectID": "02-admissions.html#guiding-principles",
+    "href": "02-admissions.html#guiding-principles",
     "title": "3  Lab culture and philosophy",
     "section": "",
     "text": "Work-life balance\nVulnerability and openness\nTransparency\nTracking progress\nAntiracist principles\nEmbrace failure - failing often is the key to success\nCelebrate and support one another\nProduce high quality science\nCommunicate early and often\nBackwards design\nProduce science that can be used (stakeholder engagement, popular press)",
@@ -90,8 +40,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#general-expectations",
-    "href": "02-lab-culture-philosophy.html#general-expectations",
+    "objectID": "02-admissions.html#general-expectations",
+    "href": "02-admissions.html#general-expectations",
     "title": "3  Lab culture and philosophy",
     "section": "3.2 General expectations",
     "text": "3.2 General expectations\n\n3.2.1 Big picture\nScience can be hard, frustrating, and even sometimes painful (like when my appendix ruptured in the field!). However, the process of science can also be filled with joy, discovery, and collaboration. As a lab, it is key that we work together to create an environment that is conducive to productive, honest, and healthy science. We do not buy into myths that one has to work 80 hours a week or that you have to be cutthroat to succeed. With that in mind, there are a few big picture thoughts that are important for this lab (many of which are very different from other labs you may have been a part of):\n\nYou should be working on problems that excite you. This doesn’t mean every step of the process will be exciting, but following your curiosity is a tried-and-true path to creating interesting and impactful science.\nWe have to be very careful and honest about the science we produce. I am not a famous PI at some fancy school. When we produce groundbreaking or novel work, people will not take our word for it (and nor should they!). We have to be sure of the work we produce and own up to mistakes when they happen.\nSome of science is done on an individual business, but it is also highly collaborative. This is especially true in QMEL. When someone in the lab succeeds, we all succeed. Be kind and help one another.\nIf you are struggling professionally or personally, it is important to seek help. This can be from Easton, your fellow lab mates, friends, family, or professionals. Easton sees a therapist frequently as a check on his mental health.\nA research lab is similar to a small business. As the lab PI, I am the entrepreneur and CEO. One of my main responsibilities is to provide overall direction and to bring in work (via grants). However, because we are a small group, there should be a relatively flat hierarchy in the lab. This research lab will only be successful if we work together.\nResearch funding and publications are two commonly used metrics of success in science. This is problematic in many ways, but it is how things are. This doesn’t mean that we can’t work on other things (e.g., science outreach), but funding and publications still have to happen.\nEach semester, we will reflect as a group and in one-on-one discussions on upcoming goals of the lab. This is meant as a way to track our progress towards goals and reduce ambiguity. We are not aiming to accomplish 100% of our goals. Ideally, we will only accomplish 70-80% of our goals each semester to ensure our goals are achievable, but lofty. We also keep the idea of backwards design in our planning process on order to help us achieve our long-term goals.\nA critical part of being a lab member is attending events in the department, on campus, and beyond the university. Events can include casual coffee breaks, job candidate talks, scientific lectures, and social hours. All of these events provide an important opportunity for both your own career and to build a culture of community.\n\n\n\n3.2.2 Small picture\n\nIf you’re sick, stay home and take care of yourself. Because you need it, and also because others don’t need to get sick.\nYou aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night (Easton rarely works during these times). You are expected to get your work done (whatever time of day you like to do it).\nShow up and be on time for meetings.\nKeep the lab spaces clean and tidy\n\n\n\n3.2.3 Taking time off\nIn order to maintain your mental health and productivity, it is essential to take time off. For this reason, all full-time lab members, including the PI, are guaranteed 20 paid days off. The lab PI appreciates when you let him know you won’t be in, but you are welcome to take time off for any reason. You don’t need to take time off for a scientific conference (related to your graduate work) or for holidays. There is no need to formally track your time off. There may also be days where your work isn’t going particularly well. You should feel empowered to leave work early and take care of yourself. In this lab, we are worried about long-term productivity versus how much time you spend on any given day doing work.",
@@ -100,8 +50,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#communication",
-    "href": "02-lab-culture-philosophy.html#communication",
+    "objectID": "02-admissions.html#communication",
+    "href": "02-admissions.html#communication",
     "title": "3  Lab culture and philosophy",
     "section": "3.3 Communication",
     "text": "3.3 Communication\nOne of the most important aspects to being successful in this lab, UNH, and elsewhere is clear, early, and frequent communication. Early communication can save everyone a lot of headaches later on. We have several platforms for communication.\n\n3.3.1 Weekly lab meetings\nEach week, we will meet as an entire lab. At the beginning of each semester, we will decide on lab meeting objectives and goals. This can include topics like professional development, practice talks, reading and discussing papers, general check ins (including our mental health), or collaborative lab projects.\n\n\n3.3.2 Weekly one-on-one meetings\nThe lab PI will meet weekly with each member of the lab unless a different agreement has been reached. I expect these meetings to be led by the advisee, not me. These weekly meetings are a way for you to keep me updated on your progress and to get input. I expect agendas going into each meeting and notes written afterwards in order to make our time together effective. This is your primary time to get my input on a regular basis.\n\n\n3.3.3 Unscheduled communication\nI am typically on campus from 9am-5pm Mon through Friday. However, my time is split between being working in my office, attending meetings, or teaching classes. When I am in my office, I may or not be available to chat. I often have “deep work” sessions where I am trying to concentrate and focus on thinking hard thoughts. During these times, or if I am on a call, my door will be closed. When my door is open, you are welcome to stop in for a quick chat. Anything longer than a few minutes may require setting up a formal time to chat.\n\n\n3.3.4 Sharepoint Kanban board\nTo manage projects in the lab, we use a Kanban-style board. The key is to have a central place for each project to keep track of communication, files, and updates. Otherwise, we spend a lot of effort trying to find files and communication in shared folders, emails, and Slack.\nEach project has a card on the board. The board includes column to signify the status of each project. A project is often at the scale of a student chapter, paper, or grant. The card scope shouldn’t be too big (e.g., complete PhD disseration), but it also shouldn’t be too small (e.g., edit equation in methods). For smaller tasks, these could live on a separate board or spreadsheet to track all the details on an individual project.\n\nEach card has information on who is responsible for what and by when. The cards allow sharing of links to important documents and back and forth communcation. Using a @ symbol notifies someone you have an update for them.",
@@ -110,8 +60,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#lab-slack-team",
-    "href": "02-lab-culture-philosophy.html#lab-slack-team",
+    "objectID": "02-admissions.html#lab-slack-team",
+    "href": "02-admissions.html#lab-slack-team",
     "title": "3  Lab culture and philosophy",
     "section": "3.4 Lab Slack team",
     "text": "3.4 Lab Slack team\nThe lab group uses Slack https://qmel.slack.com/ as one of our main communication tools. It is a useful way to celebrate our achievements together virtually, share interesting articles or papers, coordinate collaborations, and organize meetings. This helps remove some email clutter.",
@@ -120,8 +70,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#email",
-    "href": "02-lab-culture-philosophy.html#email",
+    "objectID": "02-admissions.html#email",
+    "href": "02-admissions.html#email",
     "title": "3  Lab culture and philosophy",
     "section": "3.5 Email",
     "text": "3.5 Email\nWe don’t use email a lot in the lab. We use email to collaborate with non-lab members or to share documents back and forth.",
@@ -130,8 +80,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#texting-and-phone-calls",
-    "href": "02-lab-culture-philosophy.html#texting-and-phone-calls",
+    "objectID": "02-admissions.html#texting-and-phone-calls",
+    "href": "02-admissions.html#texting-and-phone-calls",
     "title": "3  Lab culture and philosophy",
     "section": "3.6 Texting and phone calls",
     "text": "3.6 Texting and phone calls\nI use texting and phone calls sparingly. They are best for quick one one-off messages (e.g., “For our meeting, let’s meet at the coffee shop instead”) or in case you really need something urgently (e.g., “I’m locked out of the building”). Conversations that require a lot of back and forth are often handled best in a quick in-person meeting.",
@@ -140,8 +90,8 @@
     ]
   },
   {
-    "objectID": "02-lab-culture-philosophy.html#science-workflow",
-    "href": "02-lab-culture-philosophy.html#science-workflow",
+    "objectID": "02-admissions.html#science-workflow",
+    "href": "02-admissions.html#science-workflow",
     "title": "3  Lab culture and philosophy",
     "section": "3.7 Science workflow",
     "text": "3.7 Science workflow\nEach scientist, lab, and field has their own set up favorite tools and technologies that allow them to actually do science. This ranges from what software to write papers to statistical software to field equipment. Below is a brief description of how the scientific workflow currently operates in the QMEL. A shared set of tools and approaches helps us ultimately make more progress as a group.\n\n3.7.1 Programming (R, R markdown, and Github)\nOur lab is a leader in open and reproducible science. This means that every member of the lab will use tools such as R, R markdown, and Github. These tools allow us to reproducible workflows and make our work more accessible to others. Where possible, each paper should be written in R markdown (and/or LaTex) and tracked using version control in Github. Sometimes this workflow is not possible given outside collaborators that may not be comfortable with these tools. Google docs can work as a substitute in these cases.\n\n\n3.7.2 File storage and sharing\nThe lab primarily uses Sharepoint. We use Sharepoint for large file storage and backing up data. Sometimes, we use Google drive for collaborating on documents, especially with external co-authors. For manuscripts written by only members of QMEL, the preference for document preparation is a combination of R markdown (or Quarto) and Github.\nWhen collecting new data (and also useful when downloading data from elsewhere), ensure you have several backups. There should be 1 copy on Sharepoint, 1 on your local machine, and 1 on an external drive.\n\n\n3.7.3 Working on papers\nThe style of the lab is to share outlines and drafts of manuscripts early and often. This allows Easton or others to make comments early on in the process which might save a lot of headaches later. When you have a version, you would like Easton to read, simply let him know that you would like feedback and try to specify by when and for what you specifically want feedback with (e.g., structuring the introduction, figure design, etc.). Every grant and paper needs to be read by one other lab member and Easton before submission.\n\n\n3.7.4 Reference manager\nYou are free to use whatever reference manager you prefer, but most people in the lab use Zotero. It is free, integrates with R markdown and Google docs, and allows collaborations among many people.\n\n\n3.7.5 Social media\nThe lab has a Twitter (https://twitter.com/quantmarineeco) that is maintained by the lab PI, but it hasn’t been used in a while.\n\n\n3.7.6 Lab website\nAn updated lab website (https://quantmarineecolab.github.io/) is important for public engagement and sharing our work with others. As a member of the lab, you are expected to contribute to the lab website from time to time. This includes a biography of yourself, project updates (usually in the form of blog posts), and posting papers. Details of how to contribute to the website are on the website’s Github page (https://github.com/quantmarineecolab).",
@@ -150,483 +100,293 @@
     ]
   },
   {
-    "objectID": "03-code-of-conduct.html",
-    "href": "03-code-of-conduct.html",
-    "title": "4  Code of Conduct",
+    "objectID": "03-onboarding.html",
+    "href": "03-onboarding.html",
+    "title": "4  Onboarding",
     "section": "",
-    "text": "A Code of Conduct is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community.",
+    "text": "4.1 Essential information for new grads\nLet’s extract info from (https://colsa.unh.edu/sites/default/files/media/2024-07/essentialinfonewgrads_fall2023.pdf) and put it here",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code of Conduct</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Onboarding</span>"
     ]
   },
   {
-    "objectID": "04-recruitment.html",
-    "href": "04-recruitment.html",
-    "title": "5  Recruitment",
+    "objectID": "03-onboarding.html#essential-information-for-new-grads",
+    "href": "03-onboarding.html#essential-information-for-new-grads",
+    "title": "4  Onboarding",
     "section": "",
-    "text": "5.1 All members\nWelcome to the Quantitative Marine Ecology Lab at UNH!\nPlease explore this lab manual and the lab website. If you are still interested in joining the lab, read details below submit an interest form.\nAll lab members must:\nMembers of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower. One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.",
+    "text": "4.1.1 Being productive and sane\n\nBook - Deep Work by Cal Newport. All of his books are great, especially So Good They Can’t Ignore You, A World Without Email, and Slow Productivity\nBook - How to Write A Lot by Paul Silvia\nBook - A Field Guide to Grad School by Jessica McCrory Calarco\nBook - Pasteur’s Quadrant by Donald Stokes and a follow up article on the topic\nGood collection of book recommendations here\n\n\n\n4.1.2 Being a mentee or mentor\n\nHow to manage your supervisor",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Onboarding</span>"
     ]
   },
   {
-    "objectID": "04-recruitment.html#all-members",
-    "href": "04-recruitment.html#all-members",
-    "title": "5  Recruitment",
+    "objectID": "04-ms-marinebiology.html",
+    "href": "04-ms-marinebiology.html",
+    "title": "5  Program Description",
     "section": "",
-    "text": "Be decent human beings (we don’t work with jerks)\nHave an interest in ecological systems and using quantitative tools (e.g., mathematical models, statistics, R)\nWant to change the world",
+    "text": "6 Learning Outcomes\n\n\n7 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "04-recruitment.html#undergraduate-students",
-    "href": "04-recruitment.html#undergraduate-students",
-    "title": "5  Recruitment",
-    "section": "5.2 Undergraduate students",
-    "text": "5.2 Undergraduate students\nWe are not currently actively recruiting undergraduate students. However, you can still put in a general inquiry below.\nThe lab often has openings for undergraduate students to contribute to projects or design a project for an undergraduate thesis/research experience. All students are paid or receive course credits. These projects are typically co-designed by the student, QMEL graduate students, and Professor Easton White. The undergraduate researcher role in the lab is more detailed in the lab handbook.\nWe take applications at any time, but interns typically start in January, June, or August. There are UNH student specific opportunities, but we also have openings for non-UNH students and recent graduates. The students most likely to be accepted for a position are those with a keen interest in developing quantitative skills in the context of marine systems.\nIf you are interested in joining the lab, head to link to complete an interest survey and send a brief email to qmel.admin@unh.edu.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "04-recruitment.html#graduate-students",
-    "href": "04-recruitment.html#graduate-students",
-    "title": "5  Recruitment",
-    "section": "5.3 Graduate students",
-    "text": "5.3 Graduate students\n\n\nApplications currently be reviewed for Fall 2026. If you are unsure of your status in the process or haven’t heard from us, please reach out qmel.admin@unh.edu. Occassionally, an application slips through the cracks.\nCurrent funding is focused on the following projects:\n\nmathematical modeling of aquaculture,\ndecision science and time series analysis related to how to optimize ecological monitoring programs, and\nhow biologists learn quantitative skills (student would be co-advised with Dr. Melissa Aikens).\n\nTopic (3) would be for a PhD student (who already has a MS) and would involve a dissertation split between biology education research and an ecological topic.\nFor all positions, applicants would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). After completing this, head to this link to complete an interest survey and send a brief email to qmel.admin@unh.edu. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program.\nOur lab handbook is a living document and lays out expectations of lab members.\nI can accept students through UNH’s Biological Sciences MS and PhD programs. There are specific programs in Integrative Biology (IB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. Although less common, I can also accept student through the Oceanography, Natural Resources & Earth Systems Science, and Integrated Applied Mathematics programs at UNH. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. For students starting in Fall 2025, the minimum yearly salary is $31,520 per year (including summer). The salary increases each year and is higher if you already have a MS degree. Health insurance and tuition are also covered by the lab/university. When we make an offer to a graduate student, their funding is described in detail in an offer letter.\nI encourage my own students and applicants to apply for various grants and fellowships. I can help applicants apply for these opportunities.\n\nSimons Graduate Fellowships in Ecology and Evolution - new funding source for PhD students in ecology/evolution with quantitative background - proposal due July 31st, 2025, so get in touch ASAP\nQuad fellowship - $20,000 award for graduate students. Due in March each year.\nFulbright Program - this is for non-US residents to study and work in the US - due in October (depends a bit on the country) each year\nNSF GRFP - Award is for three years of funding - lots of restrictions on who can apply - due in October each year\nPaul and Daisy Soros Fellowships for New Americans - Due in November each year\nNOAA-NMFS Population Dynamics Fellowship - The fellowship can provide support for up to three years for highly qualified graduate students working towards a Ph.D. in quantitative programs\nHertz Fellowship - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year\nGillam Fellows Program - program to advance equity and inclusion in science. Each adviser-student pair receives an annual award of $53,000 for up to three years.\nFoundation for Food and Agriculture Research FFAR Fellows Program - cohort program for those interested in ag/aquaculture, must be sponsored partially by non-university group, fellows receive $49,500 per year for stipend and tuition\nFord Foundation Fellowship\nDOE Computational Science Graduate Fellowship - due in January each year, must be US Citizen, $45,000 stipend per year\nList of other fellowships\nAnother fellowship database\nAnd yet another database\n\nThe curriculum in the biology graduate programs is flexible. Graduate students work with their advisor and committee to choose a set of courses. In my lab, it is common for students to take a mix of the following courses in their first two years (see below for a couple of examples). All incoming students take BIOL 901: Introductory Graduate Seminar. BIOL 901 is designed for you to build community within your cohort and learn about UNH.\n\nBIOL 806: Data Science with R for the Life Sciences\nBIOL 895: Theoretical Ecology\nOE 895: Marine Ecosystem Modeling\nNR 807: Environmental Modeling\nBIOL 902: Scientific Writing\nNR 905: Grant Writing\nNR 909: Multivariate Statistics\nNR 913: Hierarchical modeling and Bayesian Statistics\nANFS 933: Design, Analysis, and Interpretation of Experiments\n\nDepending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to others in the Biology Department or within the College of Life Science And Agriculture.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "04-recruitment.html#postdoctoral-fellows",
-    "href": "04-recruitment.html#postdoctoral-fellows",
-    "title": "5  Recruitment",
-    "section": "5.4 Postdoctoral fellows",
-    "text": "5.4 Postdoctoral fellows\n\n5.4.1 (Future) Environmental monitoring postdoc - posting to come in mid 2026\nThis position (1-3 years) is funded by a NSF grant focused on the optimal design of long-term monitoring programs. Head to link to complete an interest survey and send a brief email to qmel.admin@unh.edu.\nPreferred qualifications include:\n\nExperience working with databases of time series (e.g., eBird, BioTime)\nStrong statistical (using R) and/or mathematical modeling experience\nExpertise in decision science\nExperience teaching or facilitating workshops in data science and programming\nExperience or background in mentoring students\n\n\n\n5.4.2 Other possibilities\nI am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.\n\nNSF Postdoctoral Research Fellowships in Biology (PRFB) Program: Biological Research, Understanding and Solutions for a Resilient Planet - starts in Fall 2025\nShoals Marine Lab Scientist-in-Residence Fellowship - due Apr 22nd\nGund postdoctoral fellow program (based at the University of Vermont) - due Nov 11th\nNSF Ocean Sciences postdoctoral fellow program (based anywhere) - Due Nov 11th each year\nFulbright Program - this is for non-US residents to study and work in the US - due in October each year\nHuman Frontier Science Program postdoctoral fellowship - intended for interdisciplinary scholars working in the life sciences - due August of each year\nSchmidt Science Fellows postdoctoral program\nSmith Fellowship program - Conservation-focused award due in October each year\nJSMF’s Understanding Dynamic and Multi-scale Systems program - Postdoc fellowship due in June each year\nJHU Early career researcher funding database\nLife Sciences Research Foundation - opens in August each year\nL’Oréal USA For Women in Science fellowship - Applications open in Fall each year",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "04-recruitment.html#other-positions-at-unh",
-    "href": "04-recruitment.html#other-positions-at-unh",
-    "title": "5  Recruitment",
-    "section": "5.5 Other positions at UNH",
-    "text": "5.5 Other positions at UNH\nAdditional staff and faculty positions at UNH are posted to an online job platform.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "05-onboarding.html",
-    "href": "05-onboarding.html",
-    "title": "6  Onboarding",
+    "objectID": "05-phd-marinebiology.html",
+    "href": "05-phd-marinebiology.html",
+    "title": "6  Program Description",
     "section": "",
-    "text": "6.1 First steps\nWelcome to QMEL and the University of New Hampshire!\nHere are some resources to help you get settled into the Lab.\nOur group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to QMEL and UNH seamless and enjoyable. Most importantly, welcome!\nIf you are already a student, post-doc, or researcher we hope these resources prove useful as well.\nIn addition to reading through this lab manual, all lab members should verify they have completed the following lab onboarding steps:",
+    "text": "7 Learning Outcomes\n\n\n8 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "05-onboarding.html#first-steps",
-    "href": "05-onboarding.html#first-steps",
-    "title": "6  Onboarding",
+    "objectID": "06-ms-integrativebiology.html",
+    "href": "06-ms-integrativebiology.html",
+    "title": "7  Program Description",
     "section": "",
-    "text": "If needed, submit I-9 paperwork and direct deposit paperwork\nRequest access to the QMEL Sharepoint folder\nRequest to join the lab Slack group\nRequest to join the Department of Biological Sciences Slack group (grad students and postdocs only)\nCreate a Github account and request push access (by asking Easton) to the lab Github account.\nAdd or update your biography on the lab website - can email Easton with bio and headshot.\nObtain keys from Lisa for both your personal office and the lab space if applicable\nObtain a UNH ID card and request swipe access to Spaulding by emailing Lisa and cc’ing Easton",
+    "text": "8 Learning Outcomes\n\n\n9 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "05-onboarding.html#stay-informed",
-    "href": "05-onboarding.html#stay-informed",
-    "title": "6  Onboarding",
-    "section": "6.2 Stay informed",
-    "text": "6.2 Stay informed\n\nUniversity listserves and information\nSMSOE weekly newsletter - Reach out to marine.information@unh.edu\n\nGraduate student and postdoc weekly newsletter - Reach out to grad.school@unh.edu\n\nExternal listserves\nEcolog - job and information board for ecologists\n\nidealist - job board for non-profits and similar groups\n\nTexas A&M job board\nWild Labs job board",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
-    ]
-  },
-  {
-    "objectID": "05-onboarding.html#core-readings",
-    "href": "05-onboarding.html#core-readings",
-    "title": "6  Onboarding",
-    "section": "6.3 Core readings",
-    "text": "6.3 Core readings\nBefore starting in the lab, there are several good resources you might consider reading to ease your transition. Feel free to ask Easton or others in the lab what resources they found the most helpful. It will certainly depend on your career stage. We also have hard copies for many of these resources in the lab library. In addition to this lab manual, we also follow the mentee-mentor compact from the Association of American Medical Colleges.\n\n6.3.1 Ecology\n\nLab papers\nBook series - Monographs in Population Biology\n“Horizon scan papers” - done every year on a variety of topics. Here is just one example\nDynamic Ecology blog\n\n\n\n6.3.2 Thinking quantitatively\n\nPaper - Your first math model\nBook - The Ecological Detective\nBook - A Biologist’s Guide to Math Modeling\nBook - Relevant sections in The Encyclopedia of Theoretical Ecology\nStatistical rethinking - a Bayesian course\nGLMM primer\n\n\n\n6.3.3 New Hampshire systems (especially if relevant to your proposed work)\n\nPREP State of the Estuaries Report\nUNH Aquaculture report\nNortheast Ocean Data Portal\nNHFG reports\nGBNERR strategic plan\n\n\n\n6.3.4 Being productive and sane\n\nBook - Deep Work by Cal Newport. All of his books are great, especially So Good They Can’t Ignore You, A World Without Email, and Slow Productivity\nBook - How to Write A Lot by Paul Silvia\nBook - A Field Guide to Grad School by Jessica McCrory Calarco\nBook - Pasteur’s Quadrant by Donald Stokes and a follow up article on the topic\nGood collection of book recommendations here\n\n\n\n6.3.5 Being a mentee or mentor\n\nHow to manage your supervisor",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
-    ]
-  },
-  {
-    "objectID": "06-training-undergrads-and-interns.html",
-    "href": "06-training-undergrads-and-interns.html",
-    "title": "7  Undergrads and interns",
+    "objectID": "07-phd-integrativebiology.html",
+    "href": "07-phd-integrativebiology.html",
+    "title": "8  Program Description",
     "section": "",
-    "text": "7.1 Welcome\nWelcome to QMEL! We typically host very few undergraduate researchers or interns. During the academic year, we might have 1-2 students completing a thesis or independent project.",
+    "text": "9 Learning Outcomes\n\n\n10 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Undergrads and interns</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "06-training-undergrads-and-interns.html#expectations",
-    "href": "06-training-undergrads-and-interns.html#expectations",
-    "title": "7  Undergrads and interns",
-    "section": "7.2 Expectations",
-    "text": "7.2 Expectations\nUndergraduates play a critical role in QMEL. The lab has several ongoing research projects led by either Professor White or another senior member of the lab (including graduate students and postdocs). Undergraduates interested in working in the lab should have a genuine interest in the research questions and be interested in developing quantitative (e.g., math, statistics, computer programming) skills.\nResearch Phases: There are three phases at which undergraduates can be involved in research within QMEL. The different phases represent different levels of research experience, independence, and responsibility. Most students start as research assistants. Not all students move through all three levels of involvement.\n\nResearch Apprentice: The first stage of involvement for an undergraduate is as a research apprentice. At this stage, an undergraduate joins a research team in the lab. The goal is to get caught up on the current progress of the team. This includes reading scientific papers, learning necessary tools (e.g., R programming), and meeting regularly with team members. This phase continues until Professor White and the research team agree the student is ready to become a more active and contributing member to the lab. This phase typically last one semester or year.\nResearch Assistant: Following their apprenticeship, students are expected to contribute in more significant ways to the research team. This can involve collecting and analyzing data, manuscript writing, conducting experiments, and so forth. The goal during this phase is to present work at a scientific conference or submit a manuscript to a peer-reviewed scientific journal.\nResearch Associate: The final phase of involvement in the lab is for students who have presented their work at a conference or been involved in the submission of a manuscript (see above). This phase involves more leadership and independence. Students at this level define team goals, help mentor new team members, and meet regularly with Professor White. This phase in the lab is very similar to being a graduate student in the lab.\n\nDuring your time as an undergraduate researcher in the QMEL, you will have several responsibilities:\n\nSend mentors weekly email updates on Fridays by 5pm describing briefly what you’ve been working on, what you plan to do the following week, and any questions or troubles you had. Important things to include: projects you’ve worked on, broken equipment, storage/equipment conflicts, if your data looks weird.\nKeep weekly notes, especially of meetings with mentors.\nPrepare a monthly blog post of what you are working on.\nAttend lab meetings. The entire lab assembles approximately once a week to discuss our research. Generally, the person leading the lab meeting will distribute reading materials in advance. You should read these materials and come prepared to participate actively in the discussion.\nMaintain a lab notebook and stay organized. There is a lot of overlap in projects, and it is essential that you keep track of your work. This includes updating the data spreadsheets and lab notebooks immediately. Someone else should be able to step into your role at any moment and be able to get up to speed quickly.\nRead background literature. A key part to your development as a scientist\nCommunicate, communicate, communicate. Many of the issues that arise in research are simply because of a lack of communication. It is critical that you communicate early and often on issues or concerns that you may be experiences.\nBe independent. I am periodically away, and I expect you to get things done well without me. Ask questions when I am around, but don’t be afraid to try to do the detective work on your own if I am not. We have a helpful, experienced lab, so know that folks other than me may be excellent resources.\nKeep up with your other responsibilities. As an undergraduate, you have many other obligations. This can include coursework, jobs, family, and more.",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Undergrads and interns</span>"
-    ]
-  },
-  {
-    "objectID": "06-training-undergrads-and-interns.html#summer-field-work",
-    "href": "06-training-undergrads-and-interns.html#summer-field-work",
-    "title": "7  Undergrads and interns",
-    "section": "7.3 Summer field work",
-    "text": "7.3 Summer field work\nSome interns join the lab primarily in summers and may be involved in field work. You’ll receive more details on specifics of field work relevant to your position. Here are a few general points though.\n\n7.3.1 Packing list\n\nHat\nSunglasses\nBag for the field/office (a small backpack or something)\nPersonal laptop if you have one\nComfortable outdoor or athletic clothing (usually made of synthetic fabric). If possible, you may want to bring some comfortable, thinner long pants and long sleeve shirts because there are a lot of ticks and poison ivy up here.\nReusable water bottle\nMedications (and let mentors know of any medical concerns generally)",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Undergrads and interns</span>"
-    ]
-  },
-  {
-    "objectID": "07-training-grad-students.html",
-    "href": "07-training-grad-students.html",
-    "title": "8  Graduate students",
+    "objectID": "08-ms-neurosciencebehavior.html",
+    "href": "08-ms-neurosciencebehavior.html",
+    "title": "9  Program Description",
     "section": "",
-    "text": "8.1 Committees\nGraduate school is designed to help make you a more independent scientist. In the QMEL, graduate students are expected to co-develop their projects with the lab PI as opposed to being handed a specific project. This freedom can be GREAT, but it can also make you feel adrift at times. That is okay and it is expected. Especially early in graduate school, you should be spending a significant portion of your time reading, taking classes, attending talks, and meeting others. The goal is to think broadly and come up with interesting questions.\nThe goal of graduate school is not to get a degree. The goal is to learn how to think critically, learn skills, and to get the job you want after graduation. My goal as an advisor is to help you accomplish these things. Early and often communication is key to a strong advisor-advisee relationship. I have to know when you need help in order for me to be a good advisor.\nDuring your time as a grad student in the QEML, you will have several responsibilities:\nThere is clearly a lot to being a graduate student. It can sometimes be difficult to know where to spend your time, which is your most precious resource. I use the term backwards design (which I’ve stolen from research on pedagogy) to overcome this problem. The key is to think about where you want to be after graduate school. Do you want to be a professor? Then it will be important to publish, get funding, and teach courses in graduate school. Do you want to work on science policy? Then it will be important to publish, work with local officials, and apply for opportunities related to policy. Meetings with Easton and others in the lab or on campus will help clarify some of these choices.\nIn order to be successful as a scientist, it is critical that you stay up to date on the latest research. This can be a formidable challenge but it can be facilitated by using RSS feeds or emails with journal table of contents. Setting up Google Scholar alerts can also be helpful for specific key words. You can also consider following scientists or scientific organizations on Twitter.",
+    "text": "10 Learning Outcomes\n\n\n11 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Graduate students</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "07-training-grad-students.html#committees",
-    "href": "07-training-grad-students.html#committees",
-    "title": "8  Graduate students",
+    "objectID": "09-phd-neurosciencebehavior.html",
+    "href": "09-phd-neurosciencebehavior.html",
+    "title": "10  Program Description",
     "section": "",
-    "text": "8.1.1 Easton on non-QMEL student committees\nGiven ongoing commitments, for 2025-2026, I am unlikely to join any student committees.\nThank you for considering me as part of your graduate student committee. I am honored. A graduate committee membership is a role I take very seriously. I have served on graduate committees in biology, natural resources, oceanography, applied math, and for students outside of my institution.\nLargely because of my role in teaching a graduate-level Data Science course (BIOL 806), I often receive requests to join committees because of my R expertise. Unfortunately, for me to join a committee, this is not enough of a justification. I receive 10+ graduate committee requests per year and, regrettably, I must turn down many requests.\nAs you consider me for your committee, please review my specific areas of expertise (https://quantmarineecolab.github.io/) and consider what expertise I would bring to your project.\nPotential reasons I may join a committee:\n\nProject related to extreme events, how to improve ecological monitoring, or socio-ecological dynamics\nProject involving quantitative biology education or outreach\nProject pertaining to one of my existing study systems: Great Bay, Madagascar, Eastern Tropical Pacific\nProject with specific analysis needs such as population modeling, time series analysis, simulation approaches\nAnother extraordinary or compelling situation (there are always exceptions)",
+    "text": "11 Learning Outcomes\n\n\n12 Program Requirements and Timeline",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Graduate students</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Program Description</span>"
     ]
   },
   {
-    "objectID": "07-training-grad-students.html#academics",
-    "href": "07-training-grad-students.html#academics",
-    "title": "8  Graduate students",
-    "section": "8.2 Academics",
-    "text": "8.2 Academics\nSpecific requirements of MS and PhD students depend on whether they are enrolled in Marine Biology or Integrative Bioloy. These requirements are updated more regularly in internal departmental documents. The goal here is lay out requirements, coursework, and timelines more specific to QMEL. There are also details about requirements at the Graduate School level available.\nLearning outcomes of a graduate degree from QMEL\n\nTBD\nTBD\n\nKey competencies\n\n\n\n\n\n8.2.1 MS program\n\n8.2.1.1 MS proposal\n\n\n8.2.1.2 MS defense\nStudents typically defend their MS about one month from the end of the term in which they plan to graduate (e.g., a defense in early April if trying to graduate in May). The graduate school actually requires this earlier defense date. Students then typically have about a month to address any comments that come out of the defense.\nOne of the most exciting and nerve-wracking times of a graduate program is your defense day. The day is a mix of celebration and often difficult discussions.\nScheduling your defense: 4-6 weeks before the defense\nThe day of the defense: Be sure to show up to the room early to test equipment and to get situated. Despite you wanting to focus on the defense itself, everyone who enters the room will want to say something to you to show their support. Easton will speak for a few minutes to introduce you and the plan for the day. You will then have 30-40 minutes to present your work. Your presentation will then be followed by 10-20 minutes of questions.\nThere will be a weird mix of emotions after the hour-long public defense. Friends and family will congratulate you. You should spend time soaking it in. You have successfully passed ½ of the defense. You’ll have a moment to breath or go to the restroom before transitioning to the private defense (usually in a separate, smaller room).\nIn the private defense, Easton will explain the format and plan for the private defense. The defense will start with each committee member asking a few questions (10-15 minutes) before the next committee member starts. Once every committee member has had a chance to ask questions, we will open the discussion for anyone to ask additional questions. Easton will take notes to let you focus on answering questions.\nAfter about 30-90 minutes of questions and discussion, the committee will ask that you leave the room. Walk down the hall, take a breath, but don’t go too far. We will come get you after 5-10 minutes of discussion. You will then join the committee and Easton will share the consensus decision of the whole group. There are three options.\n\nFail (extremely unlikely as Easton wouldn’t let you defend if he thought this was a possibility)\nNeed major revisions before passing (the most common option)\nPass with minor revisions (it happens, but isn’t super common)\n\nIf the consensus is number (2) above (which is the most likely), Easton and the committee will provide a blueprint for what needs to happen before they can sign up on your thesis/dissertation.\nYou should take a moment to collect your thoughts, write down any notes, and breath. Usually, you and Easton will have a minute to chat. The goal is to wrap up the thoughts for the day and take a break. Once you have captured any important ideas, put your thesis and notes away. In a few days, return to the notes. You and Easton will make a plan at this point to finish and address committee concerns. In the meantime, spend time with family and friends, eat, sleep, relax, etc. You need a break after a day full of emotion.\n\n\n\n8.2.2 PhD program\nResponsible Conduct of Research\nAs a land-­grant institution, the University of New Hampshire (UNH) is accountable to New Hampshire residents and to the University community to ensure the ethical and safe conduct of research and scholarly activity. As an institution of higher education that prides itself on extensive research endeavors and the involvement of undergraduates and graduate students in research projects, UNH has an obligation to teach and actively promote integrity in research and scholarship.\nTo fulfill its obligations, UNH has embarked on a program on the responsible conduct of research and scholarly activity (RCR) to:\n\nRaise the consciousness of faculty, staff, and students regarding the ethical and responsible conduct of research and scholarly activity;\nEstablish a knowledge base that defines normative and/or professional behavior to assist faculty, staff, and students in making ethical and responsible decisions in the conduct of research and scholarly activity; and\nFoster an institutional culture of integrity in research and scholarly activity.\n\nTo support these efforts, the Graduate Council has mandated that all incoming Ph.D. students complete RCR training approved by the Graduate School by the end of their first semester. For more information, visit the RCR website.\n\n8.2.2.1 PhD proposal\nAt the end of year one or early in year 2 (by the end of year 2 at the latest), you are expected to formally defend your PhD proposal. The proposal is an opportunity to formalize your PhD plan and receive feedback from the committee. Your PhD path will surely change along the way, so the proposal is exactly that—a proposal. Proposals in QMEL tend to be more detailed than those in other labs. In particular, we write propoosals in “manuscript format” where each chapter is described with an introduction and methods section.\nThere is some information on the PhD proposal available here for current students. Here are a few key considerations:\n\nAll thesis proposals are limited in length to the signature coversheet plus 20 or fewer double-spaced, single-sided or double-sided, numbered pages in a font size no smaller than 12 point. Proposals longer than this will not be accepted, however, appendices and references are not included in the 15-page limit, and must be numbered separately, using lower-case Roman numerals.\nEach chapter must be outlined in the style of a manuscript with a short introduction (including statement of problem and justification for work), clear objectives, and methods that clearly address the objectivs.\nA clear demonstration of knowledge of the literature with appropriate sources is important.\n\n\n\n8.2.2.2 PhD Qualifying Exam\nThe committee should be provided with the research proposal ahead of time, because this will shape what they decide is important to cover in the qualifying exams. Questions about the proposal are highly appropriate as part of the oral exam. The qualifying exam typically happens at the end of year 2 or the start of year 3. If the qualifying exam has not been completed by the end of year 3, a student may be placed on probation.\n\n8.2.2.2.1 Outline of process for qualifying exams (written and oral components):\n\nThe Student schedules dates for the (a) written and (b) oral portions of the exam\nThe written portion does not require committee members’ presence. It should be completed in time for committee members to review answers before the oral, around two weeks in advance.\nThe oral portion requires all members’ participation (in person or via zoom).\nUse meeting schedulers like when2meet or doodle to identify a two-hour block that works for the oral exam. It is advised you schedule this far in advance, ideally when your committee members have their schedules for the next semester (2-3 months is ideal).\nThe Student chooses three areas of specialization in consultation with her committee\nDiscuss and agree in advance whether the exam is open- or closed-book, time limits, and expected length of written answers (usually 2-5 pages each)\nCommittee members each submit 2-3 possible questions to Easton, who selects and provides them to The Student on the agreed date(s) – often, one question per day within a single week\nThe Student answers selected questions in essay form and returns those answers to Easton\nEaston circulates all answers to all committee members\nOral exam: about 2 hours\nCommittee members take turns asking The Student questions (including but not limited to the written exam and research proposal; general knowledge in relevant areas is also appropriate/fair game)\nThe Student leaves the room and the committee decides whether she has earned a pass, conditional pass (needs to re-do some portion of the exam), or fail.\nShe comes back, we tell her the decision, and go on from there.\nOnce she has passed the exam, The Student fills out paperwork, Easton signs it, and it goes to Lisa Buchalski and thence to the graduate school. This includes nominating her Doctoral Dissertation Committee, which may look a lot like her current Guidance Committee.\nThere are two forms\nGrad school Doctoral Candidacy form (only GPC and advisor sign)\nDBS Comprehensive Exam form (all committee members must sign)\n\n\n\n8.2.2.2.2 Advice for qualifying exams\nThe candidacy/qualifying/comprehensive exam can seem intimidating. It will require you to take at least one month off your typical routine (maybe longer if you need to TA or have other commitments) to prepare. However, as long as you study you will pass. Easton and your committee will not have agreed to you scheduling Comps if they didn’t think you would be ready.\nScheduling – Ideally, you will pass your Comps before the end of your fifth semester. Work backwards and figure out how much time you will need to schedule both orals and written exams and study. You will need to propose to your committee that you are ready to take Comps, ideally during a committee meeting so that your progress is fresh in their minds and you have a captive audience. Bonus points if you can make everyone take out their calendars during the meeting and schedule the orals then and there! If you need to email your committee instead, account for how long it will take for everyone to 1) agree that you are ready for Comps and 2) agree on a date and time. Ideally, do this 2-4 months in advance.\nFocal areas and Reading list– When planning on your study schedule, you should plan on doing all of your prep work before your writtens, not your orals. You will want to take a breahter/refocus a bit in between your writtens and orals, and having to play catchup is not ideal.\nAround 6-8 weeks before your written exam week, write to each committee member to determine 1) what areas of focus they should question you on, and 2) suggested reading lists given these focal areas. Focus areas should be tailored to each committee member’s main disciplines and how they intersect with your work. You can start off with a list you and Easton decide on, and then see what they think. Along with the focal areas, you should solicit a reading list from your committee members. This reading list can be an enormous help in your studying, as the textbooks/review papers/seminal papers they suggest are likely to be different from the reading you’ve been doing for your proposal and individual experiments. They should send you somewhere between 5-15 resources.\nHow to study – At least 4-6 weeks before your written exam date, you should have all meetings organized, reading material acquired, and focus areas agreed upon. Organization of your readings and notes is critical and highly personal – use what has worked for you historically. Notetaking programs like Notion and OneNote are highly customizable and use a reference manager to organize your resources (ideally in a separate “comps” folder). If it is helpful to you, calculate how many papers/pages you need to read a day – this will help you break down the intimidating stack of reading!\nGiven the time limits you have during your written and oral exams, having a good recall of 1) what a certain paper is about (i.e. Levin and Paine 1974 is about disturbances in intertidal communities…) and 2) what papers you can cite or refer to on a given subject (Metabolic Theory of Ecology originated from 1997 West, Brown, and Enquist paper). They are not going to ask you about methodological details (generally), or a specific result. Instead, you should focus on the major conclusions, theories, patterns, models, trends, etc. That are discussed in each paper. This is why you will find yourself reading more review papers, textbooks, synthesis papers, etc. Than you probably normally do.\nTake notes, ideally both in the text of each paper and in a single document/program so that you can easily refer back to all your notes later.\nMy master’s advisor once told me to follow the 6-6-6 rule… start studying six weeks before your exam date, six days a week, six hours a day. I don’t think working six days a week is at all necessary, but this structure can give you a general clue for how much time you should be spending.",
-    "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Graduate students</span>"
-    ]
-  },
-  {
-    "objectID": "08-training-postdocs-and-staff.html",
-    "href": "08-training-postdocs-and-staff.html",
-    "title": "9  Postdocs and staff",
+    "objectID": "10-funding.html",
+    "href": "10-funding.html",
+    "title": "11  Grants",
     "section": "",
-    "text": "Postdocs (or postdoctoral fellows or postdoctoral trainees) are a strange position within academia. It is an awkward couple of years when you have lots of expertise, yet you are not in a permanent position. Unlike graduate school, you are expected to be more independent, although this depends on the lab and PI. The time as a postdoc can also feel lonely as you are not a graduate student and also not faculty. It is key to make connections with other postdocs or scientists on campus. During your time as a postdoc in the QEML, you will have several responsibilities:\n\nWorking on projects/papers related to your postdoc position\nFinishing up old work\nDeveloping independent work\nMentoring students\nApplying for funding and jobs\n\nOne of the most stressful parts of a postdoc position is the short-term and finite nature of the role. You only have a couple of years to find funding, find another postdoc position, or find a more permanent job. This means you should be applying for opportunities throughout your time as a postdoc.\nMy goal as an advisor with postdocs is to help them do good science and get the job they want.\nFind more resources for postdocs at UNH here. https://www.unh.edu/research/about/postdoctoral-researchers",
+    "text": "11.1 General lists of resources/databases",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Postdocs and staff</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "09-training-lab-leader.html",
-    "href": "09-training-lab-leader.html",
-    "title": "10  Lab leader",
-    "section": "",
-    "text": "10.1 Expectations of the Principal Investigator\nThe leader of QMEL is expected to:",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Lab leader</span>"
-    ]
-  },
-  {
-    "objectID": "09-training-lab-leader.html#expectations-of-the-principal-investigator",
-    "href": "09-training-lab-leader.html#expectations-of-the-principal-investigator",
-    "title": "10  Lab leader",
-    "section": "",
-    "text": "Support you (scientifically, emotionally, financially)\nGive you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants\nBe available in person and via online on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss)\nGive their perspective on where the lab is going, where the field is going, and tips about surviving and thriving in academia\nSupport your career development by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit\nHelp you prepare for the next step of your career, whether it’s a post-doc, a faculty job, or a job outside of academia\nCare for your emotional and physical well-being, and prioritize that above all else",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Lab leader</span>"
-    ]
-  },
-  {
-    "objectID": "10-producing-quality-work.html",
-    "href": "10-producing-quality-work.html",
-    "title": "11  Producing quality work",
-    "section": "",
-    "text": "11.1 Advice on writing\nFor better or worse, publications are a key currency in science. They are one of the main ways we track scientific progress and individual production. Authorship on papers can be one of the most fraught topics and is therefore often ignored until the last minute. This is a bad strategy and only leads to resentment among co-authors. Therefore, authorship (in terms of composition and order) should be determined at the onset of the project. The specifics might change throughout the project, but it is key to have a starting point to work with from the start. The term “significant scientific contributions” is often used for defining who should be included as an author. In this lab, we use the definition from the International Committee of Medical Journal Editors (http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html): The ICMJE recommends that authorship be based on the following 4 criteria:\nThus, simply providing some data or providing minor comments on a manuscript do not warrant authorship, but they should still be acknowledged. Just because I am your advisor, does not mean I warrant authorship on your publications. The same goes for your committee members. There will likely be publications that you are involved with that I have only a small part in. That being said, the most common order (but by no means the only) for authorship in the lab is Grad Student Lead, Other Contributors, with the PI as the last author. It is common for the grad student lead and the PI to both be corresponding authors.\nKey principles on writing in the lab\nHere are some examples of the last bullet:\nAs an academic, you are also now a professional writer. You get paid to think of ideas, test them, and then write about your findings. Writing can be one of the most important aspects of being a scientist, but it can also lead to a lot of pain. Why? Writing is hard by its nature. It is not natural and is a skill you have to develop and keep working on. I still read lots of books on writing and attend workshops. I also work with professional editors to help improve my own writing.\nYou have to write consistently. Ideally, you would write every day for a set duration (say 30-60 minutes). I write a lot, not because I am a great writer, but because I am a consistent writer. If you write just 100 words per day, but 5 days a week, over the course of a year you’ll have produced 26,000 words. You don’t want to arrive to the end of your degree program or finish a bunch of analyses only to then start writing. You should be writing throughout the process. When I was ready to defend my PhD, I essentially stapled three papers together, used material from my proposal written years earlier to form the intro, and I then had a dissertation. There was no mad dash as the end to finish all the writing. I had done it already.\nHow do you improve your writing? First, you have to write a lot. Second, you can read the work of others and take notes on the writing style. Why do you like how one paper is written compared to another? The best writers are also prolific readers. Third, you need to receive lots of feedback on your writing from me, your colleagues, and writing coaches/editors. On a given paper, I would expect us to go back and forth on 10+ drafts (even more with co-authors). The writing process is slow for this reason.\nUNH writing resources\nhttps://gradschool.unh.edu/student-resources/career-professional-community-development-resources/writing-research\nAll grad students can see a writing coach up to 8 times a semester!! Please do this.\nWe also have paid professional editors that help our lab.\nGeneral writing advice\nAdvice on specific sections of a scientific paper\nTitle\nPaper I wrote on scientific titles https://quantmarineecolab.github.io/pdfs/2023_Heard_etal_Facets.pdf\nAuthors\nWe have fairly clear authorship criteria in the lab (https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md#authorship), but they may not be the case when you work with external collaborators, so it is important to clarify authorship early in any project\nAbstract\nhttps://bpb-ap-se2.wpmucdn.com/sites.rmit.edu.au/dist/b/55/files/2018/04/Abstract-Guidelines-Nature-Journal-qip46l.pdf\nIntroduction\nMethods\nStatistics/math\nP-values https://www.nature.com/articles/520612a\nWriting math ecology https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3701\nResults\nDiscussion\nConclusion\nAppendix\nCode\nSharing code may result in more citations https://gradschool.unh.edu/student-resources/career-professional-community-development-resources/writing-research",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Producing quality work</span>"
-    ]
-  },
-  {
-    "objectID": "10-producing-quality-work.html#advice-on-writing",
-    "href": "10-producing-quality-work.html#advice-on-writing",
-    "title": "11  Producing quality work",
-    "section": "",
-    "text": "Use active voice\nWrite clearly and concisely\nAvoid filler words, long sentences, and weak verbs\n\n\n\nLong sentences\n\nExample: “The connection between sedimentation and flow has been investigated in depth and if cleaning and flow rates are highly correlated this knowledge supports the pressures to maintain frequent cleaning implementations in aquaculture”\n\nFiller words\n\nExample: “The uncertainties lie with how oysters and other bivalves will be influenced by these increased disruptions through the cleaning process.” You could write, “The impact of increased cleaning disruptions on oysters and other bivalves is uncertain.”\nExample: “For further identifying health of oysters, we used gaping behavior as a proxy due to its connection to respiration and feeding.” You could write, “To assess oyster health, we used gaping behavior as a proxy for respiration and feeding.” – this is a subtle shift, but a few less words makes the sense feel so much smoother\n\nVerb choice (https://www.aje.com/arc/editing-tip-powerful-verbs/ and https://www.brandeis.edu/writing-program/resources/faculty/handouts/active-verbs-discussing-ideas.html)\n\nExample: “…the connection to potential benefits have not been investigated.” You could instead write “…the connection to potential benefits remains unexplored.” Often verbs that rely on “have” or “can” (which are helping (auxiliary) verbs) in the sentence indicate weak verbs.\nExample: “Filter feeders landing on the surrounding cages can lead to declines in food abundances for the bivalves within.” You could write, “Filter feeders landing on the surrounding cages can reduce food abundance for bivalves.”\nExample: “Biofouling is an additional factor associated with cleaning implementation and impede flow rates in cages” You could write “Biofouling contributes to cleaning challenges and reduces flow rates in cages.”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n11.1.1 Specific pieces of advice\n\nHow to write about regression outputs",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Producing quality work</span>"
-    ]
-  },
-  {
-    "objectID": "10-producing-quality-work.html#where-to-publish",
-    "href": "10-producing-quality-work.html#where-to-publish",
-    "title": "11  Producing quality work",
-    "section": "11.2 Where to publish",
-    "text": "11.2 Where to publish\nA lot has been written on this topic. In general, we like to publish our work open access (which may be in the form of a preprint) and solid journals. The goal is to publish in the right journal as opposed to the “best journal possible”. One useful tip is to go through your list of references. What journals do you cite? That probably gives you a good clue as to the write audience for your work.\nAt UNH, we have a special agreement with Cambridge to publish open access for free, including in the following journals.\n\nEnvironmental Data Science\nOryx\nCoastal Futures\nEnvironmental Conservation\n\nWe also publish for free, or cheaply, in PeerJ and UNH enjoys other publishing discounts.\n\n11.2.1 Submitting a paper\nThroughout the process of developing a paper for publication, you should also think about what journals you plan to submit to, who the co-authors will be, and when you want to submit. The answers to these questions will shape how you write the paper.\nEarly in the development of a manuscript, you should have a target journal, determine the focus of the journal, and discuss with Easton or other senior authors. At this stage, you should have an ideal of the author list (and likely order) as well. It is important to sort out authorship very early in the process.\nAt least 2-3 months prior to submission, you should have a full draft of the paper. After a round of revisions with the senior author(s), usually Easton, you can then get feedback from other co-authors.\nAt least a month prior to submission, you should send the draft paper to all co-authors. You can do this in rounds, or send to everyone at once, but you should give every co-author at least three weeks to provide feedback. You should tell them a specific date by which you need their feedback.\nIn addition to your co-authors, at this stage you should seek internally—often called “friendly” peer review. Before submission, all papers must be internally peer reviewed by a minimum of 2 QMEL lab members at the same level or higher than your current career stage. For example, if you are a graduate student, you can have your paper draft read by two other graduate students or a graduate student and a postdoc. This is an important step as co-authors can often be too close to the work and may miss important details.\nIt is also useful to create an account at the journal you intend to submit. You can start the submission process to ensure you know what is expected from the journal. Each journal will also have an Author Guidelines document (see below for MEPS example).\nA week prior to submission, you should be incorporating edits from co-authors and discussing with the QMEL senior author on the paper. A week before submission, you should also email all co-authors to tell them that you plan to submit within a week and to ask if anyone objects to the final version of the manuscript. You should also tell them you plan to submit as a preprint if that applies to you.\nFor submission, you need to carefully follow journal requirements. It is wise to review these requirements and create an author account with the journal well before you need to submit. These are outlined clearly on every journal website. Some journals require line numbers, a cover letter, a link to data, etc. You will almost certainly need to come up with a short list (usually 3-5 names) of potential paper reviewers to suggest. An editor won’t choose everyone on your list, but they often start there. You cannot suggest someone you have published with previously.\n## Authorship resources\n\nhttp://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html\nhttps://www.sciencemag.org/careers/2010/04/conventions-scientific-authorship\nhttps://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts\n\nHere is some other advice on submitting papers\nhttps://scientific-publishing.webshop.elsevier.com/publication-recognition/how-to-submit-a-paper-for-publication-in-a-journal/\nhttps://medium.com/(aschrock/how-to-submit-a-journal-article-48bbca709c70?)\n\n\n11.2.2 Acknowledgements (example with lots of details)\nThe authors would like to thank Josie DeMerit and Ella Williams for their assistance completing the laboratory experiments. We conducted data analysis of cardiac activity on the Premise High Performance Computing Cluster, supported by the University System of New Hampshire Research Computing Center and by New Hampshire-INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. Field work and organism collection was completed under New Hampshire Fish and Game Department permit MFD 2430. This research was supported through grants to ARV by the New Hampshire Sea Grant Graduate Fellowship, and UNH School for Marine Science and Ocean Engineering (SMSOE) Graduate Student Fund. Additional funds were awarded by the New Hampshire Agricultural Experiment Station CREATE program through a joint funding program with the USDA National Institute of Food and Agriculture (Hatch award no. 7004018) and the State of New Hampshire.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Producing quality work</span>"
-    ]
-  },
-  {
-    "objectID": "12-grants.html",
-    "href": "12-grants.html",
-    "title": "13  Grants",
-    "section": "",
-    "text": "13.1 General lists of resources/databases",
-    "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
-    ]
-  },
-  {
-    "objectID": "12-grants.html#general-lists-of-resourcesdatabases",
-    "href": "12-grants.html#general-lists-of-resourcesdatabases",
-    "title": "13  Grants",
+    "objectID": "10-funding.html#general-lists-of-resourcesdatabases",
+    "href": "10-funding.html#general-lists-of-resourcesdatabases",
+    "title": "11  Grants",
     "section": "",
     "text": "General UNH page for finding funding and building grant-writing skills\nUNH Funding Database\nList of internal UNH funds\nUNH Graduate Student Funding Resouces\nUNH Resources for Post-Doc Fellows\nUNH Financial Support\nNSF Funding Database\nUNH SMSOE Research, Internship, and Fellowship Funding",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#fellowship-lists",
-    "href": "12-grants.html#fellowship-lists",
-    "title": "13  Grants",
-    "section": "13.2 Fellowship Lists",
-    "text": "13.2 Fellowship Lists\n\nUNH National Fellowship Office and their list of available funding outside the university\nUNH Fellowships Information on the Dissertation Year Fellowship, Summer Teaching Assistant Fellowship, and Graduate Awards\nCOLSA-wide grad opportunities Including: Dickie Family Scholarship, Frizzell Fund, and New Hampshire Federation of Garden Clubs Scholarship. Applications open in February. Scholarship timeline on webpage Note: Farrington Fund is specific to NREN students.\nNew Hampshire Sea Grant Fellowships Several fellowship opportunities at national and state level are available through Sea Grant/NOAA.\n\nThe Margaret A. Davidson Fellowship is offered every odd-numbered year (apply in odd-numbered year, begin fellowship in subsequent year).\nThe Dr. Nancy Foster Scholarship program offered by NOAA is a competitive scholarship for grad students.",
+    "objectID": "10-funding.html#fellowship-lists",
+    "href": "10-funding.html#fellowship-lists",
+    "title": "11  Grants",
+    "section": "11.2 Fellowship Lists",
+    "text": "11.2 Fellowship Lists\n\nUNH National Fellowship Office and their list of available funding outside the university\nUNH Fellowships Information on the Dissertation Year Fellowship, Summer Teaching Assistant Fellowship, and Graduate Awards\nCOLSA-wide grad opportunities Including: Dickie Family Scholarship, Frizzell Fund, and New Hampshire Federation of Garden Clubs Scholarship. Applications open in February. Scholarship timeline on webpage Note: Farrington Fund is specific to NREN students.\nNew Hampshire Sea Grant Fellowships Several fellowship opportunities at national and state level are available through Sea Grant/NOAA.\n\nThe Margaret A. Davidson Fellowship is offered every odd-numbered year (apply in odd-numbered year, begin fellowship in subsequent year).\nThe Dr. Nancy Foster Scholarship program offered by NOAA is a competitive scholarship for grad students.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#specific-fellowships",
-    "href": "12-grants.html#specific-fellowships",
-    "title": "13  Grants",
-    "section": "13.3 Specific Fellowships",
-    "text": "13.3 Specific Fellowships\n\nHertz\nSeekCommons\nGillam fellows\nKnauss Marine Policy Fellowship\nSmithsonian Fellowships Many opportunities for curatorial, taxonomic, and environmental science fellows. Of particular interest are STRI and SERC.\nNOAA fellowships\n\nCoastal Resilience Fellowship 2-year fellowship program where you are paired with a mentor and host organization.",
+    "objectID": "10-funding.html#specific-fellowships",
+    "href": "10-funding.html#specific-fellowships",
+    "title": "11  Grants",
+    "section": "11.3 Specific Fellowships",
+    "text": "11.3 Specific Fellowships\n\nHertz\nSeekCommons\nGillam fellows\nKnauss Marine Policy Fellowship\nSmithsonian Fellowships Many opportunities for curatorial, taxonomic, and environmental science fellows. Of particular interest are STRI and SERC.\nNOAA fellowships\n\nCoastal Resilience Fellowship 2-year fellowship program where you are paired with a mentor and host organization.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#external-ecology-or-ocean-related-support",
-    "href": "12-grants.html#external-ecology-or-ocean-related-support",
-    "title": "13  Grants",
-    "section": "13.4 External ecology or ocean related support",
-    "text": "13.4 External ecology or ocean related support\n\nLerner-Gray Fund for Marine Research Grants Program at the American Museum of Natural History’s - due in March each year\nNational Shellfisheries Association Student Grants - several great small money grants for education and research in shellfisheries. Due November each year.\nRafe Sagarin Fund for Innovative Ecology - Grant funds for unusual, out-of-the-box approaches to ecology. Due Dec. 1st each year.\nPADI Foundation Grant - Due January each year, conservation focus.\nGarden Club of America Coastal Wetland Studies - Estuarine/wetland studies.\nAmerican Malacological Society Melbourne R. Carriker Student Research Award - Awards in malacology, will take oyster focused proposals.\nNortheastern Association of Marine and Great Lakes Laboratories Research Support\nSociety for Ecological Restoration Laderman Grant - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.",
+    "objectID": "10-funding.html#external-ecology-or-ocean-related-support",
+    "href": "10-funding.html#external-ecology-or-ocean-related-support",
+    "title": "11  Grants",
+    "section": "11.4 External ecology or ocean related support",
+    "text": "11.4 External ecology or ocean related support\n\nLerner-Gray Fund for Marine Research Grants Program at the American Museum of Natural History’s - due in March each year\nNational Shellfisheries Association Student Grants - several great small money grants for education and research in shellfisheries. Due November each year.\nRafe Sagarin Fund for Innovative Ecology - Grant funds for unusual, out-of-the-box approaches to ecology. Due Dec. 1st each year.\nPADI Foundation Grant - Due January each year, conservation focus.\nGarden Club of America Coastal Wetland Studies - Estuarine/wetland studies.\nAmerican Malacological Society Melbourne R. Carriker Student Research Award - Awards in malacology, will take oyster focused proposals.\nNortheastern Association of Marine and Great Lakes Laboratories Research Support\nSociety for Ecological Restoration Laderman Grant - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#common-internal-unh-funds",
-    "href": "12-grants.html#common-internal-unh-funds",
-    "title": "13  Grants",
-    "section": "13.5 Common Internal UNH Funds",
-    "text": "13.5 Common Internal UNH Funds\n\nSMSOE Graduate Research Fund, up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.\nChase Family Peer Mentor Fellowship, $15000 for grad mentorship of undergrad students. Applications due in March.\nWilliam R. Spaulding Endowment, up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification – very few students apply each year.",
+    "objectID": "10-funding.html#common-internal-unh-funds",
+    "href": "10-funding.html#common-internal-unh-funds",
+    "title": "11  Grants",
+    "section": "11.5 Common Internal UNH Funds",
+    "text": "11.5 Common Internal UNH Funds\n\nSMSOE Graduate Research Fund, up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.\nChase Family Peer Mentor Fellowship, $15000 for grad mentorship of undergrad students. Applications due in March.\nWilliam R. Spaulding Endowment, up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification – very few students apply each year.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#conference-and-travel-funding",
-    "href": "12-grants.html#conference-and-travel-funding",
-    "title": "13  Grants",
-    "section": "13.6 Conference and Travel Funding",
-    "text": "13.6 Conference and Travel Funding\n\nSMSOE Travel and Education Support Program This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, click here.\nGraduate School Travel Grant The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. Info Here and Request Form Here.\nNortheastern Association of Marine and Great Lakes Laboratories Travel Grant Helps fund travel for NE marine research.",
+    "objectID": "10-funding.html#conference-and-travel-funding",
+    "href": "10-funding.html#conference-and-travel-funding",
+    "title": "11  Grants",
+    "section": "11.6 Conference and Travel Funding",
+    "text": "11.6 Conference and Travel Funding\n\nSMSOE Travel and Education Support Program This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, click here.\nGraduate School Travel Grant The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. Info Here and Request Form Here.\nNortheastern Association of Marine and Great Lakes Laboratories Travel Grant Helps fund travel for NE marine research.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#specific-undergraduate-funding",
-    "href": "12-grants.html#specific-undergraduate-funding",
-    "title": "13  Grants",
-    "section": "13.7 Specific Undergraduate Funding",
-    "text": "13.7 Specific Undergraduate Funding\n\nUndergraduate Research Presentation Grants Over the years, dozens of UNH undergraduates have presented their research findings at conferences and professional meetings nationwide. If you are invited to present at an off-campus venue, you may apply to the Hamel Center for Undergraduate Research for a Research Presentation Grant. These grants support your travel expenses and conference registration fees (not including meals, lodging, or trip insurance). Award amounts vary based on available funds. Info Here.\nDoyle Undergrad Fellowship. New Hampshire Sea Grant’s Brian E. Doyle Undergraduate Marine Extension Fellowship offers motivated undergraduates from a range of backgrounds a paid opportunity to work on projects and receive hands-on training and mentorship from NH Sea Grant staff and partners each summer. The fellowship is intended for students who are interested in connecting coastal and marine-related research to extension, education, and communications activities.\nVarious undergrad research programs through UNH’s Hamel Center\nUNH Center for Coastal Ocean Mapping Summer Undergrad Research Fellowship. Students accepted into the program will spend up to 10 intensive weeks (normally early June to mid-August) working under the guidance of a CCOM faculty member. They will conduct research related to acoustics, bathymetric mapping, habitat mapping, lidar, marine geology and geophysics, optical imaging, sonar signal processing, or data visualization. Research activities may include laboratory experiments, field work, a research cruise, data analysis, model development, or instrument development.",
+    "objectID": "10-funding.html#specific-undergraduate-funding",
+    "href": "10-funding.html#specific-undergraduate-funding",
+    "title": "11  Grants",
+    "section": "11.7 Specific Undergraduate Funding",
+    "text": "11.7 Specific Undergraduate Funding\n\nUndergraduate Research Presentation Grants Over the years, dozens of UNH undergraduates have presented their research findings at conferences and professional meetings nationwide. If you are invited to present at an off-campus venue, you may apply to the Hamel Center for Undergraduate Research for a Research Presentation Grant. These grants support your travel expenses and conference registration fees (not including meals, lodging, or trip insurance). Award amounts vary based on available funds. Info Here.\nDoyle Undergrad Fellowship. New Hampshire Sea Grant’s Brian E. Doyle Undergraduate Marine Extension Fellowship offers motivated undergraduates from a range of backgrounds a paid opportunity to work on projects and receive hands-on training and mentorship from NH Sea Grant staff and partners each summer. The fellowship is intended for students who are interested in connecting coastal and marine-related research to extension, education, and communications activities.\nVarious undergrad research programs through UNH’s Hamel Center\nUNH Center for Coastal Ocean Mapping Summer Undergrad Research Fellowship. Students accepted into the program will spend up to 10 intensive weeks (normally early June to mid-August) working under the guidance of a CCOM faculty member. They will conduct research related to acoustics, bathymetric mapping, habitat mapping, lidar, marine geology and geophysics, optical imaging, sonar signal processing, or data visualization. Research activities may include laboratory experiments, field work, a research cruise, data analysis, model development, or instrument development.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "12-grants.html#other-professional-development-opportunities",
-    "href": "12-grants.html#other-professional-development-opportunities",
-    "title": "13  Grants",
-    "section": "13.8 Other Professional Development opportunities",
-    "text": "13.8 Other Professional Development opportunities\n\nYoung Scientists Summer Program - Program in systems modeling for PhD students to spend summer in Austria\nGene Golub SIAM Summer School - rotating topics\nSIAM summer math modeling short course",
+    "objectID": "10-funding.html#other-professional-development-opportunities",
+    "href": "10-funding.html#other-professional-development-opportunities",
+    "title": "11  Grants",
+    "section": "11.8 Other Professional Development opportunities",
+    "text": "11.8 Other Professional Development opportunities\n\nYoung Scientists Summer Program - Program in systems modeling for PhD students to spend summer in Austria\nGene Golub SIAM Summer School - rotating topics\nSIAM summer math modeling short course",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Grants</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Grants</span>"
     ]
   },
   {
-    "objectID": "13-money.html",
-    "href": "13-money.html",
-    "title": "14  Money",
+    "objectID": "11-finishing.html",
+    "href": "11-finishing.html",
+    "title": "12  Offboarding",
     "section": "",
-    "text": "14.1 How money flows",
+    "text": "12.1 Exit interview\nHere is a brief summary of the offboarding process (but it looks slightly different for different positions).\nAlthough not required to answer the following questions for offboarding, they may spark thoughts upon reflection:",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Money</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
-    "objectID": "13-money.html#funding",
-    "href": "13-money.html#funding",
-    "title": "14  Money",
-    "section": "14.2 Funding",
-    "text": "14.2 Funding\nLike publications, funding is an important metric in science. Applying for and receiving funding allows us to do interesting science, but it also will help you in your career. As a lab member, you are expected to apply for grants to support research and travel as well as fellowships that may advance your career. This helps both you and the lab as a whole. Although you’ll lead these applications, you can also expect meaningful contributions from Easton throughout the process. This means enough lead time is critical. In addition, you may occasionally be asked to add comments or contribute a figure to a grant proposal that Easton is working on. In addition, you are always welcome to read grants that Easton has worked on or submitted.\nAs a lab, we have compiled a database of funding opportunities that are the most relevant to members of this lab (see shared Google Drive).\n\n14.2.1 Types of Funding\n\n14.2.1.1 TA-ship\nTeaching Assistants are hired to assist faculty in teaching undergraduate courses. Responsibilities may include, but are not limited to: classroom management and pedagogy, presentation of selected lectures, group discussion leadership, class organization and management tasks, and identification/organization of class resources. Teaching Assistants are mentored by faculty and receive constructive evaluative feedback concerning their pedagogy and teaching skills.\nTeaching assistants are expected to work no more than 20 hours per week. There could be an odd week here or there (e.g., during an exam week) that could be above 20, but other weeks should then be under 20 hours per week. If your hours are substantially under or at all over 20, please chat with Easton and the instructor of the course. No one should be having you serve as a TA for more than 20 hours a week.\n\n\n14.2.1.2 RA-ship\nResearch Assistants are hired to assist faculty in research projects related to the faculty member’s area of expertise and research agenda. Responsibilities may include, but are not limited to: reviewing the literature, identify knowledge gaps, developing original research questions and survey instrumentation, data collection, data analyses and statistics, technical writing, peer-reviewed scientific writing, and refereed research presentations. Research Assistants are mentored by faculty and receive constructive evaluative feedback concerning their technical and research skills.\nA research assistantship can take a lot of different forms in the lab. A RA-ship during the academic year supports 20 hours per week of “research” time with the remaining 20 hours for your studies, coursework, etc. In the summer, all students are guaranteed 50% support (which is the same rate as you’re paid during the academic year). It is possible to get additional summer salary as well.\nIn general, there are probably three different RA-ship scenarios within QMEL. Expectations should be set at the beginning of each semester between each student and Easton.\nThe RA funds come from a grant that directly supports your graduate research (e.g., NSF grfp). The grant could be in the form of a grant or fellowship you apply for or from Easton\nThe RA funds come from a project unrelated to your work. Here, you would be spending 20 hours a week working on some project with the remaining time dedicated to your own work and studies.\nA mix of the above\nFor example:\nIn 2024, Drew was on an RA-ship funded by a grant we received from the NH Agricultural Experimental Station. Drew spent about half of his time on research directly related to his dissertation and the other half on other work related to the grant. In this case, Drew was mentoring other students and setting up a field survey.\nIn Summer 2023, Sophie was funded by two sources: a grant related to a project on lumpfish (unrelated to her thesis) and a fellowship she won. In that summer, she split her time between the two projects. Thus, the lumpfish project paid for some of her time even if it was unrelated to her thesis work.\nIn Fall 2024, Selina had an RA ship through one of Easton’s grants. She spent 10-20 hours a week working on building biosensors, a project that wasn’t directly tied to her thesis. The rest of her time was focused on courses and her own research.\nDuring Fall 2024, Miguel was funded by a fellowship he won, the Fulbright. Thus, he is able to focus full time on his PhD work without being asked to do a lot of other lab responsibilities (e.g., lab or field work on other projects). He still attends lab meetings and is a good QMEL citizen, but most of his time is focused on research\nA student with their own funding* (e.g., Fulbright**, GRFP, STAF) has the most flexibility to focus their time on their own research projects. For example, if you were on a GRFP, Easton wouldn’t be allowed to ask you to work substantively on another project or TA.\nI would expect a student on an RA-ship to be more productive and more willing to help labmates that are on a TA-ship and are thus more limited in their own time.\n*Note. Scholarships usually come with their own terms and caveats. An agreement is made between UNH and the funding scholarship institution, but the grantee must keep track of paperwork and requirements from both institutions. Some scholarships come with tuition fee waivers, others expect grantees to apply for additional funding or have personal funds available. Scholarships rarely offer a summer stipend. Scholars MUST be full-time students (cover 9 credits each semester) for UNH to validate student benefits such as health insurance, regardless of the scholarship terms and support.\n**Fulbright Scholarship. Some students like Miguel, Salvador and Sophie have been Fullbright Scholars. Fulbright offers a fixed amount deposited in a couple installments through the academic year. Scholars must give proof of funding covering cost of living and tuition estimates for their state. The scholarship will be reduced if the scholar receives funding from other sources. The only exception is what is called a “top-off award” given by the University or PI to match the scholar stipend to the minimum cost of living.\n### Funding Breakdowns\nSummer funding models:\nEveryone is paid 50% time (around $7,500) each summer. The funding could be for your own work, but it could also be to help on other lab projects.\nIf a student receives a grant, they can add it to their own summer salary\nIf a student receives a grant, they can add some percent to summer salary where the rest would go to paying for overhead\nWe collate all students grants and then distribute equally\nLet’s assume scenario 3.\nA STAF fellowship is $5,000 each summer. We could bump up a student salary to $9,600 (standard summer salary plus half of STAF). The remaining $2,500 would go to paying for other things in the lab\nSuppose a student gets a grant for $14,000 to their project. A student could apply the grant to bump them up by to full-time in the summer. Thus, they would make 7,000 from QMEL and 7,000 from their grant with the remaining 7,000 from the grant going back to cover QMEL expenses\nIf a student received a $2,000 grant from SMSOE (or something similar), I could envision two scenarios:\nIf unrestricted, then $1,000 would go to bumping up salary and another $1,000 would go to lab expenses\nIf restricted to no salary, $2,000 could go to lab expenses, which may allow Easton to then bump up a student’s salary by $1,000 anyway\nIf scenario 3, then we could have a diversity of salaries in the lab, despite everyone working a lot\n7,100 (50% time)\n14,000 (100% time) – grad student would need to bring in a grant of at least 14K to cover 50% of their top up with the rest going towards lab\n15 or 16K - NSF GRFP (or other fellowship) that goes to covering full salary",
-    "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Money</span>"
-    ]
-  },
-  {
-    "objectID": "13-money.html#grantsfellowships",
-    "href": "13-money.html#grantsfellowships",
-    "title": "14  Money",
-    "section": "14.3 Grants/fellowships",
-    "text": "14.3 Grants/fellowships\n\nSwitzer fellowship",
-    "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Money</span>"
-    ]
-  },
-  {
-    "objectID": "14-offboarding.html",
-    "href": "14-offboarding.html",
-    "title": "15  Offboarding",
+    "objectID": "11-finishing.html#exit-interview",
+    "href": "11-finishing.html#exit-interview",
+    "title": "12  Offboarding",
     "section": "",
-    "text": "15.1 Exit interview\nHere is a brief summary of the offboarding process (but it looks slightly different for different positions).\nAlthough not required to answer the following questions for offboarding, they may spark thoughts upon reflection:",
+    "text": "Knowledge transfer\n\nDocument current projects, code, data workflows, protocols\nIdentify what needs to be handed off and to whom\nSchedule handoff meetings for ongoing work\nUpdate lab wiki/Notion/SharePoint with relevant documentation\n\nFuture workplans\n\nReview authorship plans for current and upcoming manuscripts\nClarify responsibilities for revisions, final submissions, or grants\nCommunication approach moving forward\n\nReflections\n\nWhat went well? What could be improved in the lab?\nReflections on mentorship, collaboration, and culture\nCareer plans and how to stay connected (e.g., alumni network)\n\n\n\n\n12.1.1 Mentorship & Lab Experience\n\nWhat were the most valuable parts of your time in the lab?\nHow did your experience in this lab compare to your expectations?\nDid you feel supported in your professional development? Why or why not?\nWere there enough opportunities for mentorship or leadership?\nWere feedback and communication from lab leadership effective and timely?\n\n\n\n12.1.2 Research & Collaboration\n\nWhat projects or collaborations were most meaningful to you?\nWhat challenges did you face in conducting or publishing research?\nWere there barriers that limited your productivity or creativity?\nWhat tools or resources would have made your research easier?\nHow well did the lab facilitate interdisciplinary work or external partnerships?\n\n\n\n12.1.3 Lab Culture & Operations\n\nHow would you describe the lab culture to a new hire?\nDid you feel included and respected in lab meetings and decision-making?\nWere expectations around workload, deadlines, or hours clear and fair?\nWhat could be improved in terms of lab onboarding, communication, or meetings?\n\n\n\n12.1.4 Career Next Steps\n\nHow did your time in the lab help prepare you for your next role?\nAre there specific skills or experiences you wish you had more of?\nWould you be open to future collaboration with the lab?\n\n\n\n12.1.5 Logistics & Admin Feedback\n\nWas the administrative support for grants, travel, equipment, or HR effective?\nWere lab systems (file sharing, equipment use, communication tools) easy to navigate?\nIs there any technical documentation or system you wish you’d had access to earlier?\n\n\n\n12.1.6 Reflective & Open-Ended\n\nIf you could change one thing about the lab experience, what would it be?\nWhat advice would you give to a new scientist joining this lab?\nAny final thoughts, hopes, or suggestions for the lab’s future?",
     "crumbs": [
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Offboarding</span>"
     ]
   },
   {
-    "objectID": "14-offboarding.html#exit-interview",
-    "href": "14-offboarding.html#exit-interview",
-    "title": "15  Offboarding",
+    "objectID": "13-helpful-links.html",
+    "href": "13-helpful-links.html",
+    "title": "14  Helpful links",
     "section": "",
-    "text": "Knowledge transfer\n\nDocument current projects, code, data workflows, protocols\nIdentify what needs to be handed off and to whom\nSchedule handoff meetings for ongoing work\nUpdate lab wiki/Notion/SharePoint with relevant documentation\n\nFuture workplans\n\nReview authorship plans for current and upcoming manuscripts\nClarify responsibilities for revisions, final submissions, or grants\nCommunication approach moving forward\n\nReflections\n\nWhat went well? What could be improved in the lab?\nReflections on mentorship, collaboration, and culture\nCareer plans and how to stay connected (e.g., alumni network)\n\n\n\n\n15.1.1 Mentorship & Lab Experience\n\nWhat were the most valuable parts of your time in the lab?\nHow did your experience in this lab compare to your expectations?\nDid you feel supported in your professional development? Why or why not?\nWere there enough opportunities for mentorship or leadership?\nWere feedback and communication from lab leadership effective and timely?\n\n\n\n15.1.2 Research & Collaboration\n\nWhat projects or collaborations were most meaningful to you?\nWhat challenges did you face in conducting or publishing research?\nWere there barriers that limited your productivity or creativity?\nWhat tools or resources would have made your research easier?\nHow well did the lab facilitate interdisciplinary work or external partnerships?\n\n\n\n15.1.3 Lab Culture & Operations\n\nHow would you describe the lab culture to a new hire?\nDid you feel included and respected in lab meetings and decision-making?\nWere expectations around workload, deadlines, or hours clear and fair?\nWhat could be improved in terms of lab onboarding, communication, or meetings?\n\n\n\n15.1.4 Career Next Steps\n\nHow did your time in the lab help prepare you for your next role?\nAre there specific skills or experiences you wish you had more of?\nWould you be open to future collaboration with the lab?\n\n\n\n15.1.5 Logistics & Admin Feedback\n\nWas the administrative support for grants, travel, equipment, or HR effective?\nWere lab systems (file sharing, equipment use, communication tools) easy to navigate?\nIs there any technical documentation or system you wish you’d had access to earlier?\n\n\n\n15.1.6 Reflective & Open-Ended\n\nIf you could change one thing about the lab experience, what would it be?\nWhat advice would you give to a new scientist joining this lab?\nAny final thoughts, hopes, or suggestions for the lab’s future?",
+    "text": "14.1 People or institutions we have or currently work with",
     "crumbs": [
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Offboarding</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "16-lab-manual-inspiration.html",
-    "href": "16-lab-manual-inspiration.html",
-    "title": "17  Lab manual inspiration",
-    "section": "",
-    "text": "I drew on a lot of different resources, including other lab manuals and websites, for the initial QMEL lab manual. Here is a brief list of some of those resources:\n\nTemplate from the Fay Lab\nOpenscapes Champions program\nhttps://github.com/alylab/labmanual\nhttps://www.nature.com/articles/d41586-018-06167-w\nhttps://github.com/memobc/memolab-manual\nhttps://www.sciencemag.org/careers/2019/08/three-keys-launching-your-own-lab\nhttps://www.sciencemag.org/careers/2019/04/want-become-better-mentor-ask-anonymous-feedback\nMehr S. Lab handbooks tweet thread: Twitter. https://twitter.com/samuelmehr/status/1139733291899080705. Accessed 8 Jul 2020\nMasters KS, Kreeger PK. Ten simple rules for developing a mentor-mentee expectations document. PLoS Comput Biol. 2017;13(9):e1005709. https://doi.org/10.1371/journal.pcbi.1005709.\nhttps://store.aamc.org/downloadable/download/sample/sample_id/99/",
-    "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Lab manual inspiration</span>"
-    ]
-  },
-  {
-    "objectID": "17-helpful-links.html",
-    "href": "17-helpful-links.html",
-    "title": "18  Helpful links",
-    "section": "",
-    "text": "18.1 People or institutions we have or currently work with",
-    "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
-    ]
-  },
-  {
-    "objectID": "17-helpful-links.html#people-or-institutions-we-have-or-currently-work-with",
-    "href": "17-helpful-links.html#people-or-institutions-we-have-or-currently-work-with",
-    "title": "18  Helpful links",
+    "objectID": "13-helpful-links.html#people-or-institutions-we-have-or-currently-work-with",
+    "href": "13-helpful-links.html#people-or-institutions-we-have-or-currently-work-with",
+    "title": "14  Helpful links",
     "section": "",
     "text": "Hastings Lab\nUC Davis Population Biology\nQuEST grad program at University of Vermont\nBaum Lab\nGerber Lab\nBimini Biological Field Station\nIIASA Summer Program\nSoftware Carpentry\nEcological Forecasting Initiative",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#scientific-societies",
-    "href": "17-helpful-links.html#scientific-societies",
-    "title": "18  Helpful links",
-    "section": "18.2 Scientific societies",
-    "text": "18.2 Scientific societies\n\nAAAS\nEcological Society of America\nCanadian Society for Ecology and Evolution\nAIBS\nSociety for Industrial and Applied Mathematics\nSociety for Mathematical Biology\nSociety for the Advancement of Biology Education Research (SABER)",
+    "objectID": "13-helpful-links.html#scientific-societies",
+    "href": "13-helpful-links.html#scientific-societies",
+    "title": "14  Helpful links",
+    "section": "14.2 Scientific societies",
+    "text": "14.2 Scientific societies\n\nAAAS\nEcological Society of America\nCanadian Society for Ecology and Evolution\nAIBS\nSociety for Industrial and Applied Mathematics\nSociety for Mathematical Biology\nSociety for the Advancement of Biology Education Research (SABER)",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#applying-to-graduate-school",
-    "href": "17-helpful-links.html#applying-to-graduate-school",
-    "title": "18  Helpful links",
-    "section": "18.3 Applying to graduate school",
-    "text": "18.3 Applying to graduate school\n\nFinding right place for PhD or postdoc\nChoosing a PhD program\nApplying for a PhD program",
+    "objectID": "13-helpful-links.html#applying-to-graduate-school",
+    "href": "13-helpful-links.html#applying-to-graduate-school",
+    "title": "14  Helpful links",
+    "section": "14.3 Applying to graduate school",
+    "text": "14.3 Applying to graduate school\n\nFinding right place for PhD or postdoc\nChoosing a PhD program\nApplying for a PhD program",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#fellowshipsscholarships",
-    "href": "17-helpful-links.html#fellowshipsscholarships",
-    "title": "18  Helpful links",
-    "section": "18.4 Fellowships/scholarships",
-    "text": "18.4 Fellowships/scholarships\n\nEarly Career Researcher fellowship and grant database\nSACNAS webinar on funding within NSF for students\nEcology, evolution, & quantitative postdoc fellowship opportunities",
+    "objectID": "13-helpful-links.html#fellowshipsscholarships",
+    "href": "13-helpful-links.html#fellowshipsscholarships",
+    "title": "14  Helpful links",
+    "section": "14.4 Fellowships/scholarships",
+    "text": "14.4 Fellowships/scholarships\n\nEarly Career Researcher fellowship and grant database\nSACNAS webinar on funding within NSF for students\nEcology, evolution, & quantitative postdoc fellowship opportunities",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#undergraduate-research-opportunities",
-    "href": "17-helpful-links.html#undergraduate-research-opportunities",
-    "title": "18  Helpful links",
-    "section": "18.5 Undergraduate research opportunities",
-    "text": "18.5 Undergraduate research opportunities\n\nNOAA fellowships\nList of summer internships in ecology\nSummer marine internships",
+    "objectID": "13-helpful-links.html#undergraduate-research-opportunities",
+    "href": "13-helpful-links.html#undergraduate-research-opportunities",
+    "title": "14  Helpful links",
+    "section": "14.5 Undergraduate research opportunities",
+    "text": "14.5 Undergraduate research opportunities\n\nNOAA fellowships\nList of summer internships in ecology\nSummer marine internships",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#research-tools",
-    "href": "17-helpful-links.html#research-tools",
-    "title": "18  Helpful links",
-    "section": "18.6 Research Tools",
-    "text": "18.6 Research Tools\n\nResearch Rabbit - AI tool for identifying links between papers in your reference manager and finding new papers",
+    "objectID": "13-helpful-links.html#research-tools",
+    "href": "13-helpful-links.html#research-tools",
+    "title": "14  Helpful links",
+    "section": "14.6 Research Tools",
+    "text": "14.6 Research Tools\n\nResearch Rabbit - AI tool for identifying links between papers in your reference manager and finding new papers",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#r-programming-and-data-visualization",
-    "href": "17-helpful-links.html#r-programming-and-data-visualization",
-    "title": "18  Helpful links",
-    "section": "18.7 R Programming and Data Visualization",
-    "text": "18.7 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course\nBig book of R - literally every open-source R book available in one place!\n[Species distribution modeling tutorial] https://github.com/elhazen/SDM_tutorial",
+    "objectID": "13-helpful-links.html#r-programming-and-data-visualization",
+    "href": "13-helpful-links.html#r-programming-and-data-visualization",
+    "title": "14  Helpful links",
+    "section": "14.7 R Programming and Data Visualization",
+    "text": "14.7 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course\nBig book of R - literally every open-source R book available in one place!\n[Species distribution modeling tutorial] https://github.com/elhazen/SDM_tutorial",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#grant-writing-advice",
-    "href": "17-helpful-links.html#grant-writing-advice",
-    "title": "18  Helpful links",
-    "section": "18.8 Grant writing advice",
-    "text": "18.8 Grant writing advice\n\nNSF DEB - how to write a great budget\nBaskett Lab resources collection",
+    "objectID": "13-helpful-links.html#grant-writing-advice",
+    "href": "13-helpful-links.html#grant-writing-advice",
+    "title": "14  Helpful links",
+    "section": "14.8 Grant writing advice",
+    "text": "14.8 Grant writing advice\n\nNSF DEB - how to write a great budget\nBaskett Lab resources collection",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   },
   {
-    "objectID": "17-helpful-links.html#job-boards",
-    "href": "17-helpful-links.html#job-boards",
-    "title": "18  Helpful links",
-    "section": "18.9 Job boards",
-    "text": "18.9 Job boards\n\nTexas A&M Natural Resources Job Board\nScience Careers\nNature Careers\nJobrxiv\nBiospace\nIndeed\nLinkedIn\nEcoevo Jobs Google Sheet\nConservation Job Board\nIdealist\nWILDLABS Job Board",
+    "objectID": "13-helpful-links.html#job-boards",
+    "href": "13-helpful-links.html#job-boards",
+    "title": "14  Helpful links",
+    "section": "14.9 Job boards",
+    "text": "14.9 Job boards\n\nTexas A&M Natural Resources Job Board\nScience Careers\nNature Careers\nJobrxiv\nBiospace\nIndeed\nLinkedIn\nEcoevo Jobs Google Sheet\nConservation Job Board\nIdealist\nWILDLABS Job Board",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Helpful links</span>"
     ]
   }
 ]
