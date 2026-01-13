@@ -1,5 +1,21 @@
 # Funding {#funding}
 
+
+## Common Internal UNH Funds
+- [SMSOE Graduate Research Fund](https://marine.unh.edu/opportunities/research-funding), up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.
+- [Chase Family Peer Mentor Fellowship](https://marine.unh.edu/opportunities/research-funding), $15000 for grad mentorship of undergrad students. Applications due in March.
+- [William R. Spaulding Endowment](https://marine.unh.edu/opportunities/scholarships-fellowships), up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification -- very few students apply each year.
+
+## Conference and Travel Funding
+* **SMSOE Travel and Education Support Program**
+This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, [click here](https://marine.unh.edu/opportunities/travel-education-funding).
+* **Graduate School Travel Grant**
+The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. [Info Here](https://www.gradschool.unh.edu/php/travel_grant.php) and [Request Form Here](https://gradschool.unh.edu/admissions/financial/travel-grant-request-form).
+* [Northeastern Association of Marine and Great Lakes Laboratories Travel Grant](http://neamgll.naml.org/members/studentsupport.php) Helps fund travel for NE marine research. 
+
+
+
+
 ## General lists of resources/databases
 - [General UNH page for finding funding and building grant-writing skills](https://www.unh.edu/research/research/research-development-resources)
 - [UNH Funding Database](https://www.unh.edu/research/resources/all?combine&resource_type=All&field_resource_category_tid=156&field_resource_topic_tid=All)
@@ -37,17 +53,7 @@
 - [Northeastern Association of Marine and Great Lakes Laboratories Research Support](http://neamgll.naml.org/members/studentsupport.php)
 - [Society for Ecological Restoration Laderman Grant](https://chapter.ser.org/northeast/emerging-professionals/laderman-student-grant/) - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.
 
-## Common Internal UNH Funds
-- [SMSOE Graduate Research Fund](https://marine.unh.edu/opportunities/research-funding), up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.
-- [Chase Family Peer Mentor Fellowship](https://marine.unh.edu/opportunities/research-funding), $15000 for grad mentorship of undergrad students. Applications due in March.
-- [William R. Spaulding Endowment](https://marine.unh.edu/opportunities/scholarships-fellowships), up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification -- very few students apply each year.
 
-## Conference and Travel Funding
-* **SMSOE Travel and Education Support Program**
-This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, [click here](https://marine.unh.edu/opportunities/travel-education-funding).
-* **Graduate School Travel Grant**
-The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. [Info Here](https://www.gradschool.unh.edu/php/travel_grant.php) and [Request Form Here](https://gradschool.unh.edu/admissions/financial/travel-grant-request-form).
-* [Northeastern Association of Marine and Great Lakes Laboratories Travel Grant](http://neamgll.naml.org/members/studentsupport.php) Helps fund travel for NE marine research. 
 
 
 ## Specific Undergraduate Funding
