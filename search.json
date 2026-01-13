@@ -304,47 +304,7 @@
     "href": "10-funding.html",
     "title": "11  Funding",
     "section": "",
-    "text": "11.1 General lists of resources/databases",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
-    ]
-  },
-  {
-    "objectID": "10-funding.html#general-lists-of-resourcesdatabases",
-    "href": "10-funding.html#general-lists-of-resourcesdatabases",
-    "title": "11  Funding",
-    "section": "",
-    "text": "General UNH page for finding funding and building grant-writing skills\nUNH Funding Database\nList of internal UNH funds\nUNH Graduate Student Funding Resouces\nUNH Resources for Post-Doc Fellows\nUNH Financial Support\nNSF Funding Database\nUNH SMSOE Research, Internship, and Fellowship Funding",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
-    ]
-  },
-  {
-    "objectID": "10-funding.html#fellowship-lists",
-    "href": "10-funding.html#fellowship-lists",
-    "title": "11  Funding",
-    "section": "11.2 Fellowship Lists",
-    "text": "11.2 Fellowship Lists\n\nUNH National Fellowship Office and their list of available funding outside the university\nUNH Fellowships Information on the Dissertation Year Fellowship, Summer Teaching Assistant Fellowship, and Graduate Awards\nCOLSA-wide grad opportunities Including: Dickie Family Scholarship, Frizzell Fund, and New Hampshire Federation of Garden Clubs Scholarship. Applications open in February. Scholarship timeline on webpage Note: Farrington Fund is specific to NREN students.\nNew Hampshire Sea Grant Fellowships Several fellowship opportunities at national and state level are available through Sea Grant/NOAA.\n\nThe Margaret A. Davidson Fellowship is offered every odd-numbered year (apply in odd-numbered year, begin fellowship in subsequent year).\nThe Dr. Nancy Foster Scholarship program offered by NOAA is a competitive scholarship for grad students.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
-    ]
-  },
-  {
-    "objectID": "10-funding.html#specific-fellowships",
-    "href": "10-funding.html#specific-fellowships",
-    "title": "11  Funding",
-    "section": "11.3 Specific Fellowships",
-    "text": "11.3 Specific Fellowships\n\nHertz\nSeekCommons\nGillam fellows\nKnauss Marine Policy Fellowship\nSmithsonian Fellowships Many opportunities for curatorial, taxonomic, and environmental science fellows. Of particular interest are STRI and SERC.\nNOAA fellowships\n\nCoastal Resilience Fellowship 2-year fellowship program where you are paired with a mentor and host organization.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
-    ]
-  },
-  {
-    "objectID": "10-funding.html#external-ecology-or-ocean-related-support",
-    "href": "10-funding.html#external-ecology-or-ocean-related-support",
-    "title": "11  Funding",
-    "section": "11.4 External ecology or ocean related support",
-    "text": "11.4 External ecology or ocean related support\n\nLerner-Gray Fund for Marine Research Grants Program at the American Museum of Natural History’s - due in March each year\nNational Shellfisheries Association Student Grants - several great small money grants for education and research in shellfisheries. Due November each year.\nRafe Sagarin Fund for Innovative Ecology - Grant funds for unusual, out-of-the-box approaches to ecology. Due Dec. 1st each year.\nPADI Foundation Grant - Due January each year, conservation focus.\nGarden Club of America Coastal Wetland Studies - Estuarine/wetland studies.\nAmerican Malacological Society Melbourne R. Carriker Student Research Award - Awards in malacology, will take oyster focused proposals.\nNortheastern Association of Marine and Great Lakes Laboratories Research Support\nSociety for Ecological Restoration Laderman Grant - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.",
+    "text": "11.1 Common Internal UNH Funds",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
     ]
@@ -353,8 +313,8 @@
     "objectID": "10-funding.html#common-internal-unh-funds",
     "href": "10-funding.html#common-internal-unh-funds",
     "title": "11  Funding",
-    "section": "11.5 Common Internal UNH Funds",
-    "text": "11.5 Common Internal UNH Funds\n\nSMSOE Graduate Research Fund, up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.\nChase Family Peer Mentor Fellowship, $15000 for grad mentorship of undergrad students. Applications due in March.\nWilliam R. Spaulding Endowment, up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification – very few students apply each year.",
+    "section": "",
+    "text": "SMSOE Graduate Research Fund, up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.\nChase Family Peer Mentor Fellowship, $15000 for grad mentorship of undergrad students. Applications due in March.\nWilliam R. Spaulding Endowment, up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March. This is a good one to apply for if you can make your work fit into the JEL specification – very few students apply each year.",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
     ]
@@ -363,8 +323,48 @@
     "objectID": "10-funding.html#conference-and-travel-funding",
     "href": "10-funding.html#conference-and-travel-funding",
     "title": "11  Funding",
-    "section": "11.6 Conference and Travel Funding",
-    "text": "11.6 Conference and Travel Funding\n\nSMSOE Travel and Education Support Program This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, click here.\nGraduate School Travel Grant The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. Info Here and Request Form Here.\nNortheastern Association of Marine and Great Lakes Laboratories Travel Grant Helps fund travel for NE marine research.",
+    "section": "11.2 Conference and Travel Funding",
+    "text": "11.2 Conference and Travel Funding\n\nSMSOE Travel and Education Support Program This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, click here.\nGraduate School Travel Grant The Graduate School is pleased to announce that travel grants are available to assist graduate students presenting papers and poster sessions at professional meetings and conferences. Travel grants are also available to students who are attending professional development workshops and seminars that will enhance their research agendas. No more than two travel grants per academic year (fall to summer) will be awarded to each individual, who must be a current graduate student at the time of the application and travel. Travel grants will not exceed $200 per student per conference, or $400 per student per academic year. Students seeking a travel grant must make a request for one prior to the date of their conference or meeting. Info Here and Request Form Here.\nNortheastern Association of Marine and Great Lakes Laboratories Travel Grant Helps fund travel for NE marine research.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "10-funding.html#general-lists-of-resourcesdatabases",
+    "href": "10-funding.html#general-lists-of-resourcesdatabases",
+    "title": "11  Funding",
+    "section": "11.3 General lists of resources/databases",
+    "text": "11.3 General lists of resources/databases\n\nGeneral UNH page for finding funding and building grant-writing skills\nUNH Funding Database\nList of internal UNH funds\nUNH Graduate Student Funding Resouces\nUNH Resources for Post-Doc Fellows\nUNH Financial Support\nNSF Funding Database\nUNH SMSOE Research, Internship, and Fellowship Funding",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "10-funding.html#fellowship-lists",
+    "href": "10-funding.html#fellowship-lists",
+    "title": "11  Funding",
+    "section": "11.4 Fellowship Lists",
+    "text": "11.4 Fellowship Lists\n\nUNH National Fellowship Office and their list of available funding outside the university\nUNH Fellowships Information on the Dissertation Year Fellowship, Summer Teaching Assistant Fellowship, and Graduate Awards\nCOLSA-wide grad opportunities Including: Dickie Family Scholarship, Frizzell Fund, and New Hampshire Federation of Garden Clubs Scholarship. Applications open in February. Scholarship timeline on webpage Note: Farrington Fund is specific to NREN students.\nNew Hampshire Sea Grant Fellowships Several fellowship opportunities at national and state level are available through Sea Grant/NOAA.\n\nThe Margaret A. Davidson Fellowship is offered every odd-numbered year (apply in odd-numbered year, begin fellowship in subsequent year).\nThe Dr. Nancy Foster Scholarship program offered by NOAA is a competitive scholarship for grad students.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "10-funding.html#specific-fellowships",
+    "href": "10-funding.html#specific-fellowships",
+    "title": "11  Funding",
+    "section": "11.5 Specific Fellowships",
+    "text": "11.5 Specific Fellowships\n\nHertz\nSeekCommons\nGillam fellows\nKnauss Marine Policy Fellowship\nSmithsonian Fellowships Many opportunities for curatorial, taxonomic, and environmental science fellows. Of particular interest are STRI and SERC.\nNOAA fellowships\n\nCoastal Resilience Fellowship 2-year fellowship program where you are paired with a mentor and host organization.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "10-funding.html#external-ecology-or-ocean-related-support",
+    "href": "10-funding.html#external-ecology-or-ocean-related-support",
+    "title": "11  Funding",
+    "section": "11.6 External ecology or ocean related support",
+    "text": "11.6 External ecology or ocean related support\n\nLerner-Gray Fund for Marine Research Grants Program at the American Museum of Natural History’s - due in March each year\nNational Shellfisheries Association Student Grants - several great small money grants for education and research in shellfisheries. Due November each year.\nRafe Sagarin Fund for Innovative Ecology - Grant funds for unusual, out-of-the-box approaches to ecology. Due Dec. 1st each year.\nPADI Foundation Grant - Due January each year, conservation focus.\nGarden Club of America Coastal Wetland Studies - Estuarine/wetland studies.\nAmerican Malacological Society Melbourne R. Carriker Student Research Award - Awards in malacology, will take oyster focused proposals.\nNortheastern Association of Marine and Great Lakes Laboratories Research Support\nSociety for Ecological Restoration Laderman Grant - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Funding</span>"
     ]
