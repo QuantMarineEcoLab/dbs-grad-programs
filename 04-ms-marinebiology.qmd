@@ -112,7 +112,7 @@ necessary, a revised proposal should be submitted. Sometimes an abbreviated form
 be used for such changes. The student, in consultation with their major professor, should contact the MBGP Coordinator for further guidance. 
 
 
-##Credit Requirements
+### Credit Requirements
 
 The M.S. degree requires completion of a minimum of 30 credits, 6-¬10 of which are earned for thesis research (BIOL 899 Master's Thesis ). 
 
@@ -156,10 +156,10 @@ Where to find enrollment policy, course and registration information:
 • registration information and deadlines are posted at the Graduate School website https://gradschool.unh.edu/graduate-student-resources 
 
 
-###Research Proposal
+### Research Proposal
 M.S. students must have their proposal approved by their advisor and Thesis Committee by the end of the second semester. 
 
-###Annual Progress Report and Review Meeting
+### Annual Progress Report and Review Meeting
 Each student will meet with a representative of the Graduate Program Committee in the spring semester to review progress and identify any concerns. The purpose of this meeting is to:
 
 1) Encourage the student to think critically about his/her own progress (or lack thereof) and goals for both the immediate and long-term future.
@@ -183,7 +183,7 @@ Following the meetings, comments and suggestions will be shared with the student
 
 Students who do not complete the review process by the specified date will have a hold placed on their registration by the Graduate School until they have resolved the situation.
 
-###Completing the Degree
+### Completing the Degree
 
 As a graduate student, you are responsible for knowing what you need to do to get your degree: your advisor and committee should offer guidance, but the primary responsibility is yours. Make sure you are thoroughly familiar with:
 
@@ -199,6 +199,6 @@ For both the MS thesis and Ph.D. dissertation students are required to give a pu
 The student is responsible for transmitting necessary paperwork to the Graduate School, and fulfilling Graduate School requirements for electronic submission of the thesis, by the appropriate deadline.
 
 
-###Graduation
+### Graduation
 
 The Graduate School website provides detailed information on graduation procedures, including deadlines, filing “intent to graduate” notification, submitting theses/dissertations to the Graduate School, and Commencement: http://www.gradschool.unh.edu/graduation.php
