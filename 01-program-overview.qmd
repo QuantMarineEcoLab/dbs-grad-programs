@@ -54,7 +54,7 @@ Students and research projects do not all progress at the same pace. The timelin
 
 
 
-Program contacts and Information:
+# Program contacts and Information:
 • Administrative staff: Lisa Buchalski, lisa.buchalski@unh.edu, (603)862-3626
 • Department Chair: Elizabeth Harvey, elizabeth.harvey@unh.edu, (603)862-3418
 • Associate Chair: Melissa Aikens, melissa.aikens@unh.edu, (603)862-0840
@@ -63,6 +63,10 @@ Program contacts and Information:
 • Program web site: general academic information at https://colsa.unh.edu/biological-sciences/academics (scroll to the bottom for grad programs); copies of useful forms, faculty listing, and key links for current grad students and advisors at https://colsa.unh.edu/biological-sciences/key-documents .
 
 
+## Graduate Program Coordination and Admissions Committee (GPC) 
+This committee, chaired by the Graduate Coordinator, oversees the standards and implementation of the graduate program. Membership consists of the Associate Chair, the program coordinators for each graduate program, and one additional faculty member from each option. 
+
+The GPC is responsible for establishing universal guidelines for all graduate students in each degree (M.S. and Ph.D.), and brings forth suggestions for changes in policies pertaining to the program. The GPC welcomes input and suggestions from graduate students as well as faculty and staff. The GPC also oversees annual Progress Reviews for graduate students in the program (see Chapter 3). Graduate students should feel free to approach the Graduate Coordinator or another member of the committee for advice at any time, although ordinarily the student's faculty advisor and committee serve as the primary contact.
 
 
 
