@@ -21,16 +21,18 @@ book:
     - 01-program-overview.qmd
     - 02-admissions.qmd
     - 03-onboarding.qmd
-    - 04-ms-marinebiology.qmd
-    - 05-phd-marinebiology.qmd
-    - 06-ms-integrativebiology.qmd
-    - 07-phd-integrativebiology.qmd
-    - 08-ms-neurosciencebehavior.qmd
-    - 09-phd-neurosciencebehavior.qmd
-    - 10-funding.qmd
-    - 11-finishing.qmd
-    - 12-UNH-and-Durham.qmd
-    - 13-helpful-links.qmd
+    - 04-mentorship.qmd
+    - 05-ms-marinebiology.qmd
+    - 06-phd-marinebiology.qmd
+    - 07-ms-integrativebiology.qmd
+    - 08-phd-integrativebiology.qmd
+    - 09-ms-neurosciencebehavior.qmd
+    - 10-phd-neurosciencebehavior.qmd
+    - 11-courses.qmd
+    - 12-funding.qmd
+    - 13-finishing.qmd
+    - 14-UNH-and-Durham.qmd
+    - 15-helpful-links.qmd
 
 
 

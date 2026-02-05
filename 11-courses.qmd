@@ -1,0 +1,109 @@
+# Courses
+
+## Core Courses
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| BIOL 901 | Introductory Graduate Seminar | 1–2 | Fall | Every year | Rotating |
+| NSB 997 | Neuroscience & Behavior Graduate Seminar | 1 | Fall/Spring | Every year | NSB |
+
+---
+
+## Scientific Writing & Communication
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| BIOL 902 | Writing and Publishing Science | 2 | Fall | Every year | Bolker |
+| BIOL 950 | Scientific Communication | 2 | Spring | Every year | Bolker |
+| GRAD 932 | Research Communication | 2 | Summer | Periodic | Bolker |
+| NR 905 | Grant Writing | 2 | Spring | Periodic | Wollheim |
+
+
+---
+
+## Quantitative & Statistics
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| BIOL 806 | Data Science for the Life Sciences | 4 | Fall | Every year | White |
+| NR 909 | Analysis of Ecological Data | 4 | Spring | Every year | Smith |
+| MATH 835 | Statistical Methods for Research | 3 | Fall | Every year | Li |
+| MATH 836 | Advanced Statistical Methods | 3 | Spring | Every year | Zhang |
+| MATH 839 | Applied Regression Analysis | 3 | Fall | Every year | Capozzoli |
+| NR 913 | Hierarchical Modeling in Ecology | 4 | Spring | Every other year | Moll |
+| BIOL 811 | Applied Biostatistics II | 4 | Spring | Every year | Neefus |
+| ANFS 933 | Design, Analysis & Interpretation of Experiments | 4 | Spring | Periodic | Hale |
+| MATH 944 | Spatial Statistics | 3 | Fall | Periodic | Linder |
+| MATH 859 | Introduction to R Software | 1 | Spring | Periodic | Linder |
+| SOC 904 | Qualitative & Historical Research Methods | 4 | Spring | Periodic | Day |
+| EDUC 904 | Qualitative Inquiry in Research | 4 | Fall | Periodic | Coppens |
+| NR 807 | Environmental Modeling | 4 | Spring | Periodic | Wollheim |
+| NR 857 | Remote Sensing of the Environment | 4 | Fall | Periodic | Congalton |
+| NR 859 | Digital Image Processing for Natural Resources | 4 | Spring | Periodic | Congalton |
+| ESCI 877 | GIS for Earth & Environmental Science | 4 | Fall | Periodic | Palace |
+| ESCI 902 | Ocean Measurements Lab | 4 | Fall | Periodic | Lippmann |
+| Nonlisted | Time Series Analysis | — | Spring | Every year | Li |
+| Nonlisted | Nonlinear Dynamics & Chaos | — | Spring | Periodic | Shortt |
+| Nonlisted | Advanced Statistical Modeling | — | — | Periodic | — |
+| Nonlisted | Data Mining & Predictive Analytics | — | — | Periodic | — |
+| Nonlisted | Quantitative Methods for Policy Research | — | — | Periodic | — |
+
+---
+
+## Research Techniques
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| NSB 903 | Research Techniques | 2 | — | Periodic | — |
+| MCBS 901 | Introduction to Research in Life Sciences | 2 | — | Periodic | — |
+| GEN 811 | Genomics & Bioinformatics | 4 | Spring | Every year | Miller |
+| MCBS 913 | Applied Bioinformatics | 3 | Spring | Periodic | Thomas |
+| Programming | Programming for Bioinformatics | — | Fall | Periodic | — |
+| Applied Bioinfo | Applied Bioinformatics | — | Spring | Periodic | — |
+| ANFS | Sensors & Data Processing in Agriculture | — | — | Periodic | Hernandez |
+
+---
+
+## Marine Coursework
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| BIOL 855 | Biological Oceanography | 3 | Spring | Every year | Harvey |
+| BIOL 873 | Physiology of Fishes | 4 | Spring | Every year | Berlinsky |
+| MEFB 872 | Fisheries Biology: Conservation & Management | 3 | Spring | Periodic | Furey |
+| MARI 805 | Introduction to Marine Policy | 3 | Spring | Every year | Williams |
+| MEFB 817 | Lake Ecology | 4 | Fall | Periodic | McQuaid |
+| BIOL 828 | Marine Bioacoustics | 3 | Spring | Periodic | Miksis-Olds |
+| MEFB 825 | Marine Ecology (Field) | 4 | Fall | Periodic | DBS |
+| MEFB 847 | Aquatic Plants in Restoration | 4 | Fall | Periodic | Moore |
+| NR 851 | Aquatic Ecosystems | 4 | Fall | Periodic | Wollheim |
+| ZOOL 810 | Sharks & Bony Fishes (Field) | 4 | Fall | Periodic | Furey |
+| MARI XXX | Field Marine Biology | 4 | TBD | Periodic | MBGP |
+| Intro Marine Policy | Intro to Marine Policy | — | Spring | Every year | Williams |
+
+---
+
+## Ethics & Professional Development
+
+| Course Code | Course Title | Credits | Term | Frequency | Instructor |
+|-------------|-------------|--------|------|-----------|-----------|
+| GRAD 930 | Research Ethics | — | Spring | Periodic | Simpson |
+| BIOL 814 | Model Organisms in Biological & Medical Research | 2 | Spring | Periodic | Bolker |
+
+---
+
+## Research & Thesis/Dissertation Credits
+
+| Course Code | Course Title | Credits | Notes |
+|-------------|-------------|--------|------|
+| BIOL 899 | Master’s Thesis | Variable | MS thesis research |
+| NSB 899 | NSB Master’s Thesis | Variable | MS thesis research |
+| BIOL 999 | Doctoral Dissertation Research | Variable | PhD dissertation |
+| NSB 999 | NSB Doctoral Dissertation | Variable | PhD dissertation |
+
+---
+
+### Notes
+- Final course selection must be approved by the student’s advisor and committee.  
+- Not all courses are offered every year; students should consult the course schedule.  
+- Courses may satisfy different requirements depending on program (quantitative, writing, techniques, elective).  
