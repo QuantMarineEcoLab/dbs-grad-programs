@@ -1,131 +1,249 @@
-# PhD Neuroscience & Behavior
+# Ph.D. Neuroscience & Behavior
 
-## Program Description 
+## Program Description
 
+### Degree Overview
+
+The Ph.D. in Neuroscience & Behavior prepares students to become independent researchers and leaders in academic, clinical, and industry settings. Students develop advanced expertise in neuroscience and behavior while conducting original dissertation research.
+
+Students work closely with their advisor and Doctoral Guidance Committee to develop a program of study that includes required coursework, competencies, and a dissertation research plan. Following successful completion of the qualifying examination, students advance to doctoral candidacy and establish a Dissertation Committee to oversee completion of the dissertation.
+
+The Ph.D. is awarded upon completion of required coursework, advancement to candidacy, successful dissertation research and defense, and approval of the dissertation by the committee and Graduate School.
+
+Students typically complete **30–35 credits** of coursework and research.
+
+---
 
 ## Learning Outcomes
 
+- **Core Knowledge:** Demonstrate broad knowledge in biomedical sciences and advanced expertise in neuroscience and behavior within a chosen specialization.  
+- **Critical Thinking:** Develop and apply critical thinking skills to generate original and impactful scientific discoveries.  
+- **Research:** Achieve independence in hypothesis formulation, experimental design, data analysis, interpretation, and dissemination of research findings.  
+- **Communication:** Communicate research effectively through scientific writing, presentations, and peer-reviewed publications.  
+- **Professionalism:** Demonstrate leadership, teamwork, ethical conduct, and interpersonal skills required for collaborative scientific careers.  
+- **Grant Writing and Innovation:** Independently develop research proposals and serve as a project leader driving innovation in academic or industry settings.
+
+---
 
 ## Program Requirements and Timeline
 
-### Committee
+## Credit Requirements
 
-Committees are comprised of five people: your advisor, another DBS faculty member, and three additional people. At least two committee members must be external to DBS. Members of UNH must be part of the graduate faculty (which is an easy application if they aren't already graduate faculty). For non-UNH members, you must submit a CV on their behalf. All committee members should have a PhD or commensurate experience.
+Ph.D. students typically complete **30–35 credits** of coursework and dissertation research.
 
+### Required Courses and Components
 
-### Credit Requirements
+**Responsible Conduct of Research**
+- Completion of Responsible Conduct of Research (RCR) training (non-credit requirement)
 
-The M.S. degree requires completion of a minimum of 30 credits, 6-¬10 of which are earned for thesis research (BIOL 899 Master's Thesis ). 
+**Scientific Communication**
+- BIOL 950 – Scientific Communication
 
-There is no specific credit requirement for the Ph.D., though students must meet curriculum requirements.
+**Statistics**
+- Two semesters of advanced statistics  
+- At least one must be at the 800–900 level  
 
-Up to 8 graduate credits from another institution may be transferred, provided the credits were not counted toward another degree, and the course grade was a B or higher. Petitions requesting transfer credit must be supported by the advisor and graduate committee, and approved by the UNH Graduate School.
-Students admitted via the Accelerated Master's (AM) process may apply up to 12 credits of prior upper-level UNH coursework in accordance with AM policies.
+**Research Techniques (1 course)**
+Select one of the following:
+- NSB 903  
+- MCBS 901 – Introduction to Research in the Life Sciences  
+- Other approved research techniques course  
 
-The level of the courses taken to meet registration requirements is not specified. However, taking non-graduate classes does not move one towards degree completion, so taking undergraduate classes is not a common practice. A grad student cannot petition to take a 500-level course, however 500-level courses can be audited by graduate students with the cost of the course at the expense of the graduate student.
+**Graduate Seminar**
+- Minimum of two semesters  
+- NSB 997 – Neuroscience and Behavior Graduate Seminar  
+  (or approved equivalent)
 
-Students should discuss with their advisor and committee which courses will be most useful, and what course load makes sense in light of specific research and assistantship obligations (for example, an intense field season). 
+**Teaching Preparation**
+- Required for all teaching assistants:  
+  - GRAD 950 – Issues in College Teaching  
 
-How many credits to take, and financial implications: 
+**Electives**
+- Selected with advisor and committee to support specialization and career goals  
 
-Graduate students are normally required to maintain continuous enrollment each Fall and Spring semester by registering for courses, research (Grad 900/BIOL 999), or continuing enrollment (Grad 800) (see below for distinctions). Students who don’t register for the Fall and Spring semesters will have their degree status discontinued.
+**Doctoral Dissertation Research**
+- NSB 999 – Neuroscience and Behavior Doctoral Dissertation  
 
-Graduate students registered for 9 or more credits, Master's Continuing Research (Grad 900), or Doctoral Research (999) are classified as full-time students. Students holding assistantship appointments are also considered full time and must register for a minimum of 6 credits, or Doctoral Research (999) each semester. Students registered for Continuing Enrollment (GRAD 800) are not eligible to hold an appointment. For details, please see the Graduate School website (https://catalog.unh.edu/graduate/course- descriptions/grad).
+All students are expected to present research publicly (including at the UNH Graduate Research Conference).
 
-Students on assistantships (TA or RA) pay reduced mandatory fees (fee information: https://www.unh.edu/business-services/tuitgrad); this benefit applies no matter how many credits you’re taking. Tuition is commonly waived or covered for students on TA or RA appointments; however, mandatory fees remain the responsibility of the student. Students on assistantship in the spring semester can have tuition waived for summer courses offered by the Graduate School (GRAD prefix).
+---
 
-Students enrolled for more than 16 credits pay additional tuition based on the number of additional credits (https://www.unh.edu/business-services/tuitgrad). 
+## Doctoral Guidance and Dissertation Committees
 
-Doctoral students who have advanced to candidacy may petition each semester to waive fees if they meet the specified conditions (https://catalog.unh.edu/graduate/general-information/fees-financial-support/).
+Students have two sequential committees.
 
-Tuition and fee information from UNH Business Services is available at https://www.unh.edu/business-services/tuitgrad; Graduate School information about fees and financial support is at  https://catalog.unh.edu/graduate/general-information/fees-financial-support/ .
+### Doctoral Guidance Committee
 
-Which courses count:
+Established as early as possible and no later than the end of the **first year**.
 
-Graduate courses are numbered 800- or 900-level. Course descriptions can be found in the online Graduate Course Catalog (https://catalog.unh.edu/graduate/). If there is a graded option, graduate courses may not be taken Pass/Fail.
+Composition:
+- Advisor (chair)  
+- At least three additional faculty  
+- Representation from at least two relevant departments (e.g., Biological Sciences, MCBS, Psychology, Communication Sciences & Disorders)
 
-Graduate credit for 700-level courses: 700-level courses are advanced undergraduate courses. In rare cases graduate degree students may petition to earn graduate credit for up to 12 credits in 700-­level courses, provided the credits are taken in a program other than the one in which the student is seeking the degree and provided such courses are approved by the student's adviser, graduate program coordinator, and the dean of the Graduate School. Such courses must be taken for a letter grade. Petitions must include what additional requirements or expectations will be required of the student to make the course a graduate level experience.  Petition requests must be made prior to enrolling in the course and are not guaranteed.  Petition forms are available at https://gradschool.unh.edu/academics/forms-policies.
+Committee members, other than the advisor, should not be directly involved in the proposed research. Students submit the Guidance Committee Nomination Form to the Graduate School.
 
-Undergraduate courses below 700-level: While taking non-graduate classes is generally discouraged, in some cases, graduate students may need background or training that can best be obtained by taking an upper-level undergraduate class, if no equivalent course is offered at the graduate level. Undergraduate level courses taken by graduate students are billed at the graduate rate, must be taken for a letter grade, and are subject to the Graduate School’s failing grade policy. Courses taken below the 700-level cannot count as graduate credit.
+Responsibilities:
+- Approve program of study  
+- Guide development of research proposal  
+- Evaluate proposal feasibility and originality  
+- Oversee the qualifying examination  
 
-Audits: Graduate students may audit courses with the approval of their advisor and the instructor. Credits for an audited course in which a graduate student is formally enrolled may be counted toward enrollment requirements for appointments and assistantships. (Note that tuition for audited courses is the same as for credit courses.)
+### Dissertation Committee
 
-Graduate credit from another institution: Students can request to transfer up to 8 credits of graduate credit from another school, provided the credits were not counted toward another degree, and the grade was at least a B. The transfer request form is available at (https://gradschool.unh.edu/academics/forms-policies). 
+Established upon advancement to candidacy.
 
-Where to find enrollment policy, course and registration information:
-• Graduate School enrollment policies and petition forms: https://gradschool.unh.edu/academics/forms-policies
-• the UNH Course Search Form searches all courses (grad and undergrad) (https://courses.unh.edu/)https://courses.unh.edu/
-• descriptions of graduate courses are in the online catalog https://catalog.unh.edu/graduate/
-• registration information and deadlines are posted at the Graduate School website https://gradschool.unh.edu/graduate-student-resources 
+Composition:
+- At least five members  
+- No more than three from any one NSB department  
+- At least two members external to the primary department or institution  
 
+Students are encouraged to include external members beyond UNH to broaden professional networks. The Dissertation Committee supervises dissertation research, administers the final defense, and determines degree completion.
 
-### Change of Degree Status, M.S. to Ph.D. Enrollment
+---
 
-M.S. graduates normally go elsewhere for further study or for employment after completing their thesis. However, students enrolled for an M.S. degree may petition the Graduate School to continue for the Ph.D. after receipt of the M.S. or, rarely, to convert to Ph.D. enrollment without first completing the M.S. If a student wishes to convert from M.S. to Ph.D., the advisor will convene a meeting of the DBS GPC and the student's Master’s Thesis Committee to consider the application. If the application has departmental support, a "change of degree" form is then completed and submitted for Graduate School approval (https://gradschool.unh.edu/academics/forms-policies).
+## Qualifying Examination and Advancement to Candidacy
 
-Admission to Ph.D. enrollment should not be considered automatic on completion of the M.S., and conversion from M.S. directly to Ph.D. enrollment is done only in extraordinary circumstances. Conversion, when appropriate, should occur no later than the beginning of the third semester of enrollment.
+### Timeline
 
-Students who change to a Ph.D. program (and have not already done so) are required to attend the Responsible Conduct of Research Training. Further information is available at https://www.unh.edu/research/rcr-training-unh.
+The qualifying examination and advancement to candidacy typically occur in **Year 3** and no later than **Year 4**.
 
+### Purpose
 
-### Research Proposal
-Ph.D. students present and defend their formal research proposal to their Guidance Committee in order to be advanced to candidacy, normally in the second or third year. However, a solid draft of the proposal should be shared with the committee by the end of the second semester, and presented in seminar form at least to the committee, and preferably for a wider (public) audience.
+The qualifying exam evaluates:
+- Depth and breadth of knowledge in neuroscience and behavior  
+- Ability to develop and defend a rigorous research proposal  
+- Scientific writing and communication skills  
 
-Please contact individual Program Coordinators to find guidance in terms of proposal length and format.
+### Written Component
 
-Ph.D. qualifying exam and advancement to candidacy
+The written qualifying exam is a research proposal, typically modeled after an **NIH NRSA F31** fellowship or similar format.
 
-Following approval of the research proposal by their committee, students who wish to be admitted to doctoral candidacy must pass a formal qualifying examination that assesses both broad basic knowledge of the student’s field, and topics central to the project. The student is responsible for scheduling both parts of the exam; plan well ahead to account for committee members’ travel plans, sabbaticals, etc. The written portion of the qualifying exam should be taken no later than the end of the fifth semester, though it may be delayed beyond that point if necessary.  The oral portion of the exam follows successful completion of the written part, usually within a few weeks. 
+Typical components include:
+- Specific aims  
+- Background and significance  
+- Innovation  
+- Research approach and methods  
+- Timeline and milestones  
 
-Student’s should contact their respective degree programs to be provided specific details regarding the procedure of both the written and oral comprehensive exam.
+The proposal must be submitted to the Guidance Committee at least **three weeks** before the oral exam. Majority approval is required to proceed.
 
-When the student has passed both parts of the qualifying exam, the advisor will inform the Graduate School and recommend that the student be advanced to candidacy in the Ph.D. degree program by submitting the appropriate form (https://gradschool.unh.edu/academics/forms-policies) . At this point, the student’s Doctoral Dissertation Committee will be nominated using the Graduate School form (https://gradschool.unh.edu/academics/forms-policies) .
+Students are encouraged, though not required, to submit proposals for external fellowships (e.g., NIH).
 
-### Annual Progress Report and Review Meeting
-Each student will meet with a representative of the Graduate Program Committee in the spring semester to review progress and identify any concerns. The purpose of this meeting is to:
+### Oral Component
 
-1) Encourage the student to think critically about his/her own progress (or lack thereof) and goals for both the immediate and long-term future.
+The oral exam follows successful completion of the written proposal and typically includes:
+- Presentation of research proposal  
+- Questions on proposal and broader field knowledge  
 
-2) Increase a sense of accountability on behalf of graduate students, and motivate students moving at a slow pace to increase their productivity and involvement in the program.
+Possible outcomes:
+- Pass  
+- Conditional Pass  
+- No Pass  
 
-3) Remind students that to be a truly successful graduate student, one should (ideally) demonstrate success in multiple areas (research, funding, teaching, service), and provide examples for how to do that.
+Students receiving a Conditional Pass must address identified weaknesses. Students receiving a No Pass may retake the exam within six months. Failure to pass after a second attempt may result in recommendation to transition to the M.S. program.
 
-4) Provide a clear paper trail in case situations arise in which there is confusion or disagreement about a student's progress.
+### Advancement to Candidacy
 
-The annual meeting also provides an opportunity for students to raise any concerns, and provide feedback about the program and their graduate experience.
+Upon passing the qualifying examination, students are formally advanced to Ph.D. candidacy and the Dissertation Committee is appointed.
 
-In preparation for progress review meetings, 
-• The student writes a report about their progress, and submits it to their advisor and committee for review and comments. This should occur in the first half of the spring semester. Instructions and template for the student report are available at the program website, or from the department. 
-• The advisor reviews and signs the student’s report, and then also fills out an evaluation describing his/her view of the student's progress, and including a summary of the most recent committee meeting – which should take place earlier in the same semester. Instructions and template for the advisor report are available at the program website, or from the department. Reports must be submitted at least one week before scheduled meetings, normally by mid-April.
-• Instructors for whom the student has served as a teaching assistant provide comments on their teaching. (If instructors have previously provided feedback as part of fellowship or other applications, they needn’t do so again.) Comments must be submitted at least one week before scheduled meetings, normally by mid-April.
+UNH requires advancement to candidacy within **five years** of enrollment.
 
-All reports and comments will be submitted to the designated departmental staff person, who will schedule a review meeting for each student with a member of the GPC (not including the advisor or, preferably, other members of the student’s committee), normally between mid-April and mid-May. 
+---
 
-Following the meetings, comments and suggestions will be shared with the student and advisor, as well as the Program Coordinator. If there is material in the comments that is confidential or should not be shared, it may be withheld at the discretion of the Program Coordinator.
+## Enrollment, Registration, and Credit Policies
 
-Students who do not complete the review process by the specified date will have a hold placed on their registration by the Graduate School until they have resolved the situation.
+Graduate students must maintain continuous enrollment in fall and spring through coursework, research registration, or continuing enrollment.
 
-### Completing the Degree
+**Full-time status:**
+- 9+ credits, or  
+- Doctoral Research (NSB 999), or  
+- Holding an assistantship (minimum 6 credits or NSB 999)
 
-As a graduate student, you are responsible for knowing what you need to do to get your degree: your advisor and committee should offer guidance, but the primary responsibility is yours. Make sure you are thoroughly familiar with:
+Students registered for continuing enrollment (GRAD 800) are not eligible for assistantships.
 
-• the program’s academic requirements (credits, courses, competencies);
-• necessary paperwork (committee nomination, Ph.D. candidacy, etc.);
-• thesis/dissertation format and filing requirements (set by the Graduate School);
-• format and scheduling procedures for qualifying exams and thesis/dissertation defense; and all relevant deadlines.
+Students should consult their advisor regarding appropriate course load in light of research, teaching, and professional obligations.
 
-If you have questions about what you need to do, or how to do it, consult your advisor, the Program Coordinator, and/or the UNH Graduate School. If there is information you think needs to be added or clarified in this handbook, please tell the Program Coordinator.
+### Course and Credit Policies
 
-For both the MS thesis and Ph.D. dissertation students are required to give a public, advertised seminar on the UNH campus, followed by a private examination by the student's committee, which may require revisions. The committee is responsible for assessing and approving the final version of the thesis. The committee should be provided with a complete copy of the thesis for review at least two full weeks before the defense.
+**Graduate Courses**
+- 800- and 900-level courses count toward degree requirements  
+- Must be taken for a letter grade if graded option is available  
 
-The student is responsible for transmitting necessary paperwork to the Graduate School, and fulfilling Graduate School requirements for electronic submission of the thesis, by the appropriate deadline.
+**700-Level Courses**
+- Up to 12 credits may count toward graduate degree (by petition)  
+- Must be outside the student’s program  
+- Must include additional graduate-level requirements  
 
+**Undergraduate Courses (<700 level)**
+- May be taken if necessary for background preparation  
+- Do not count toward graduate degree credits  
 
-### Graduation
+**Audited Courses**
+- Allowed with advisor and instructor approval  
+- Count toward enrollment requirements but not degree credits  
 
-The Graduate School website provides detailed information on graduation procedures, including deadlines, filing “intent to graduate” notification, submitting theses/dissertations to the Graduate School, and Commencement: http://www.gradschool.unh.edu/graduation.php
+**Transfer Credit**
+- Up to 8 credits may be transferred (grade of B or higher; not counted toward another degree)  
+- Transfer request form: https://gradschool.unh.edu/academics/forms-policies  
 
-### Student Rights and Key Policies
+### Tuition, Fees, and Financial Support
 
-UNH’s statement on Student Rights, Rules, and Responsibilities applies to graduate students as well as to undergraduates. It can be found at https://catalog.unh.edu/srrr/ 
-See Graduate School Catalog for general information, policies, and student rights: https://catalog.unh.edu/graduate/
+Students on assistantships (TA or RA) typically receive tuition support and pay reduced mandatory fees. Mandatory fees remain the responsibility of the student.
+
+Doctoral students who have advanced to candidacy may petition to waive certain fees if eligible.
+
+- Tuition and fee information (UNH Business Services): https://www.unh.edu/business-services/tuitgrad  
+- Graduate School financial support information: https://catalog.unh.edu/graduate/general-information/fees-financial-support/  
+
+Students enrolled in more than 16 credits pay additional tuition for credits beyond 16.
+
+### Useful Links
+
+- Graduate School enrollment policies and forms: https://gradschool.unh.edu/academics/forms-policies  
+- UNH Course Search: https://courses.unh.edu/  
+- Graduate course catalog: https://catalog.unh.edu/graduate/  
+- Graduate student resources and deadlines: https://gradschool.unh.edu/graduate-student-resources  
+
+---
+
+## Annual Progress Review
+
+Each spring, students participate in an annual progress review with a representative of the Graduate Program Committee.
+
+**Goals of the review:**
+- Encourage reflection on progress and goals  
+- Support timely degree completion  
+- Provide mentorship and feedback  
+- Maintain clear documentation of progress  
+
+**Preparation includes:**
+- Student progress report submitted to advisor and committee  
+- Advisor evaluation and summary of committee meeting  
+- Teaching feedback (if applicable)
+
+All materials are submitted to the designated departmental staff member, who schedules review meetings (typically mid-April through mid-May). Failure to complete required materials may result in a registration hold.
+
+---
+
+## Completing the Degree
+
+Students are responsible for understanding all program and Graduate School requirements, including:
+
+- Coursework and competency requirements  
+- Committee formation and required paperwork  
+- Dissertation formatting and submission requirements  
+- Qualifying exam and defense procedures  
+- All relevant deadlines  
+
+A public seminar and dissertation defense are required. The dissertation must be provided to the committee at least **two weeks** before the defense.
+
+Final dissertation submission must meet Graduate School deadlines and formatting requirements.
+
+---
+
+## Graduation
+
+The Graduate School provides detailed procedures and deadlines for graduation, including intent-to-graduate forms, dissertation submission, and Commencement:  
+http://www.gradschool.unh.edu/graduation.php
+
