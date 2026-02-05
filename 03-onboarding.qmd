@@ -1,15 +1,103 @@
 # Onboarding {#onboarding}
 
-## Essential information for new grads
-
-Let's extract info from (https://colsa.unh.edu/sites/default/files/media/2024-07/essentialinfonewgrads_fall2023.pdf) and put it here
+## Essential Information for New Graduate Students  
 
 
+### Key Items (Complete ASAP)
+
+#### Student ID
+- Respond to the message sent from *Online Photo* to your UNH email address  
+- Upload your photo and pick up your ID on campus  
+- More information: https://www.unh.edu/dining/dining-id-parking-services/unh-id-cards  
+- Help: (603) 862-1821 or ID.Office@unh.edu
+
+#### UNH Email
+- Used for all official UNH communication  
+- Instructions: https://unh.edu/it/kb/article/accessing-student-email-wildcats-mail.html  
+- Includes steps to link other UNH systems (e.g., MyCourses/Canvas)
+
+#### Contacts and Department Access
+- Advisor: Contact ASAP  
+- Department faculty list: https://colsa.unh.edu/biological-sciences/people  
+- Lisa Buchalski (Administrative Coordinator)  
+  - lisa.buchalski@unh.edu | 603-862-3626  
+- Elizabeth Harvey (Associate Chair)  
+  - elizabeth.harvey@unh.edu | 603-862-3418  
+
+#### Office Access and Keys
+- Contact Lisa Buchalski (lisa.buchalski@unh.edu, 603-862-3626)
+
+
+
+### Orientation (Last Week of August)
+
+#### Required Orientation Events
+- Watch for an email from Lisa Buchalski with details on mandatory events  
+- Incoming graduate students typically attend:
+  - Department orientation  
+  - UNH Graduate School orientation  
+  - TA training (if applicable)  
+  - Safety training  
+- Attendance is expected for all mandatory sessions
+
+
+
+### Registration (Last Week of August)
+
+#### Registering for Classes
+- Register prior to the start of classes  
+- All incoming graduate students must enroll in BIOL 901  
+- Discuss additional first-semester courses with your advisor
+
+
+### Health Insurance and Medical Records (By ~September 1)
+
+#### Student Health Benefits Plan (SHBP)
+- Submit physical and immunization records online  
+- SHBP waiver/enrollment period: June 16 – September 16  
+  - All full-time students must take action  
+- Key links:
+  - SHBP overview: http://www.unh.edu/health/shbp  
+  - Incoming student health requirements: http://www.unh.edu/health/incoming-students  
+  - Insurance provider: https://wellfleetstudent.com/
+
+#### Questions or Assistance
+- UNH.SHBP@unh.edu  
+- Greg Turcotte, Business Manager, Health & Wellness  
+  - gregory.turcotte@unh.edu | 603-862-2855  
+- Cindy McGahey, Director of Finance & Administration, Health & Wellness  
+  - Cindy.McGahey@unh.edu | 603-862-2853  
+
+---
+
+### Additional Logistics and Resources
+
+#### Online Resources for New Graduate Students
+- UNH Graduate School (new student info): https://gradschool.unh.edu/enroll.php#admin  
+- Biological Sciences Graduate Program documents and handbook:  
+  https://colsa.unh.edu/biological-sciences/key-documents  
+
+#### Support for International Students
+- Office of International Students & Scholars: https://www.unh.edu/global/international-students  
+- Contact: oiss@unh.edu
+
+#### Parking and Transportation
+- Parking permits (commuter students): http://www.unh.edu/transportation/parking  
+- Wildcat Transit and transportation info: http://www.unh.edu/transportation/wildcat-transit  
+
+#### Emergency Alerts
+- Automatic notifications for weather, safety, and local emergencies:  
+  https://www.getrave.com/login/unh
+
+#### UNH Calendar
+- https://calendar.unh.edu
 
 
 
 
-### Being productive and sane 
+
+
+## Being productive and sane 
 
 - [Book - Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692). All of his books are great, especially *So Good They Can't Ignore You*, *A World Without Email*, and *Slow Productivity*
 - [Book - How to Write A Lot by Paul Silvia](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
@@ -18,12 +106,12 @@ Let's extract info from (https://colsa.unh.edu/sites/default/files/media/2024-07
 - [Good collection of book recommendations here](https://fromphdtolife.com/resources/recommended-reading/)
 
 
-### Being a mentee or mentor 
+## Being a mentee or mentor 
 
 - [How to manage your supervisor](https://www.science.org/content/article/how-get-what-you-need-your-phd-or-postdoc-supervisor)
 
 
-### Required training
+## Required training
 
 The [UNH Responsible Conduct of Research and Scholarly Activity (RCR)](https://www.unh.edu/research/research/compliance-safety/responsible-conduct-research-scholarly-activity/rcr-training-unh) Committee announces the availability of training in the ethical and responsible conduct of research.
  
